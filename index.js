@@ -24,10 +24,21 @@ bot.on('message', async msg => {
                         ]
                     }
                 })
+                if (text === '1-120-2023-88380US'){
+                    return bot.sendMessage(chatId, `kod: 1-120-2023-88380US\nIsmi/Имя: Kimsanov Kimsan Kimsanovich\nmodel: Nexia\nnavbat/очередь: 26`)
+                }        
     }
 
     if (text === '1-120-2023-88380US'){
         return bot.sendMessage(chatId, `kod: 1-120-2023-88380US\nIsmi/Имя: Kimsanov Kimsan Kimsanovich\nmodel: Nexia\nnavbat/очередь: 26`)
+    }
+
+    if (text === '1-120-2023-88381US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-88381US\nIsmi/Имя: Ermatov Toshmat falonchi og'li\nmodel: Premier\nnavbat/очередь: 24`)
+    }
+
+    if (text === '1-120-2023-88382US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-88382US\nIsmi/Имя: Sayfulaev Qochqor Sator o'gli\nmodel: Onix\nnavbat/очередь: 12`)
     }
 
 
