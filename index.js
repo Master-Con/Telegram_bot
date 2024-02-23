@@ -4423,7 +4423,2625 @@ bot.on('message', async msg => {
         return bot.sendMessage(chatId, `kod: 1-120-2023-64377US\nIsmi/Имя: TADJIYEV A’ZAM AKRAMOVICH\nmodel: DAMAS-2\nnavbat/очередь: 4020`)
     }
 
+    if (text === '1-120-2023-83838US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-83838US\nIsmi/Имя: JUMANOV ASADBEK ABDUSHUKUR O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 36626`)
+    }
 
+    if (text === '1-120-2023-72135US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-72135US\nIsmi/Имя: SAYDAMATXONOV SAIDAKBARXON ERGASHXON O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 41203`)
+    }
+
+    if (text === '1-120-2023-91191US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-91191US\nIsmi/Имя: TOJIDINOV BAXODIRXON MAMAXONOVICH\nmodel: DAMAS-2\nnavbat/очередь: 36624`)
+    }
+
+    if (text === '1-120-2023-89936US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-89936US\nIsmi/Имя: IBRAGIMOV ABDULLOXON RUSTAM O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 35575`)
+    }
+
+    if (text === '1-120-2023-95153US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-95153US\nIsmi/Имя: YULDASHEVA FERUZA ABDUNAZAROVNA\nmodel: DAMAS-2\nnavbat/очередь: 41155`)
+    }
+
+    if (text === '1-120-2023-74654US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-74654US\nIsmi/Имя: YAQUBJANOV ADXAMJON YUSUFJON O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 3079`)
+    }
+
+    if (text === '1-120-2023-60145US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-60145US\nIsmi/Имя: GAFUROV ABDUJABOR SATTOROVICH\nmodel: DAMAS-2\nnavbat/очередь: 42573`)
+    }
+
+    if (text === '1-120-2023-93317US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-93317US\nIsmi/Имя: UBAYDULLAYEV SATTOR YULDASHEVICH\nmodel: DAMAS-2\nnavbat/очередь: 40456`)
+    }
+
+    if (text === '1-120-2023-75540US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-75540US\nIsmi/Имя: XAKIMOVA OBIDABI SABITOVNA\nmodel: DAMAS-2\nnavbat/очередь: 4094`)
+    }
+
+    if (text === '1-120-2023-73037US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-73037US\nIsmi/Имя: ODILOVA GAVXAR AZIMJONOVNA\nmodel: DAMAS-2\nnavbat/очередь: 3256`)
+    }
+
+    if (text === '1-120-2023-77213US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-77213US\nIsmi/Имя: IMOMBERDIYEVA SHOXSANAM ABDULBORI QIZI\nmodel: DAMAS-2\nnavbat/очередь: 40921`)
+    }
+
+    if (text === '1-120-2023-79562US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-79562US\nIsmi/Имя: GULAMOVA SAIDA ABDUPATTAYEVNA\nmodel: DAMAS-2\nnavbat/очередь: 3249`)
+    }
+
+    if (text === '1-120-2023-64530US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-64530US\nIsmi/Имя: NISHONOVA SHAXNOZA RASULJON QIZI\nmodel: DAMAS-2\nnavbat/очередь: 44402`)
+    }
+
+    if (text === '1-120-2023-67151US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-67151US\nIsmi/Имя: ABDULLOYEV FIRDAVSIY ABDURASULOVICH\nmodel: DAMAS-2\nnavbat/очередь: 44434`)
+    }
+
+    if (text === '1-120-2023-95995US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-95995US\nIsmi/Имя: SULTONOV MUHAMMADAZIZ MANSURALI O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 4122`)
+    }
+
+    if (text === '1-120-2023-71048US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-71048US\nIsmi/Имя: ABDULXAYEV NABIJON ABDURAXIM O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 38280`)
+    }
+
+    if (text === '1-120-2023-76453US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-76453US\nIsmi/Имя: SULAYMANOVA GULMIRA SHAROFJONOVNA\nmodel: DAMAS-2\nnavbat/очередь: 44409`)
+    }
+
+    if (text === '1-120-2023-91189US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-91189US\nIsmi/Имя: RAHIMXONOVA MUHAYYOXON SOHIBXON QIZI\nmodel: DAMAS-2\nnavbat/очередь: 3948`)
+    }
+
+    if (text === '1-120-2023-85514US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-85514US\nIsmi/Имя: XOLMATOV DAVLATALI TURSUNALIYEVICH\nmodel: DAMAS-2\nnavbat/очередь: 4190`)
+    }
+
+    if (text === '1-120-2023-71955US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-71955US\nIsmi/Имя: SAMAYEV SHERZOD MADMUSAYEVICH\nmodel: DAMAS-2\nnavbat/очередь: 34497`)
+    }
+
+    if (text === '1-120-2023-67058US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-67058US\nIsmi/Имя: DJAFARALIYEV XOMIDDIN SADRITDINOVICH\nmodel: DAMAS-2\nnavbat/очередь: 34726`)
+    }
+
+    if (text === '1-120-2023-90072US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-90072US\nIsmi/Имя: MADOLIMOV SAIDAKBAR PAZLIDINOVICH\nmodel: DAMAS-2\nnavbat/очередь: 34759`)
+    }
+
+    if (text === '1-120-2023-74612US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-74612US\nIsmi/Имя: ABDUMALIKOV AHLIDDIN ALIJON O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 34777`)
+    }
+
+    if (text === '1-120-2023-99453US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99453US\nIsmi/Имя: SHARIPOV ABDURASHID SALIMJON O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 210`)
+    }
+
+    if (text === '1-120-2023-99027US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99027US\nIsmi/Имя: Каримов Саидисломбек Муйдин Угли\nmodel: DAMAS-2\nnavbat/очередь: 35166`)
+    }
+
+    if (text === '1-120-2023-97689US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-97689US\nIsmi/Имя: NORKUZIYEV NUMONJON RAXMANJONOVICH\nmodel: DAMAS-2\nnavbat/очередь: 1921`)
+    }
+
+    if (text === '1-120-2023-67614US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-67614US\nIsmi/Имя: SHORAMOV MUROD IBROGIMOVICH\nmodel: DAMAS-2\nnavbat/очередь: 2021`)
+    }
+
+    if (text === '1-120-2023-72652US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-72652US\nIsmi/Имя: HOSHIMOVA MARHABO RUSTAMJON QIZI\nmodel: DAMAS-2\nnavbat/очередь: 37898`)
+    }
+
+    if (text === '1-120-2023-64093US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-64093US\nIsmi/Имя: UMAROV TUYALI SHERALIYEVICH\nmodel: DAMAS-2\nnavbat/очередь: 38509`)
+    }
+
+    if (text === '1-120-2023-78957US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-78957US\nIsmi/Имя: KULDASHEV XAMIDJON GANIJONOVICH\nmodel: DAMAS-2\nnavbat/очередь: 2134`)
+    }
+
+    if (text === '1-120-2023-93917US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-93917US\nIsmi/Имя: MAJIDOV MAXMUD MALIKJON O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 37903`)
+    }
+
+    if (text === '1-120-2023-67736US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-67736US\nIsmi/Имя: OBBASOV DOVUDXON ODIL O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 44134`)
+    }
+
+    if (text === '1-120-2023-91347US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-91347US\nIsmi/Имя: GULAMOV DILMUROD KOMILJONOVICH\nmodel: DAMAS-2\nnavbat/очередь: 37708`)
+    }
+
+    if (text === '1-120-2023-90327US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-90327US\nIsmi/Имя: SODIKOVA ODINA SOXIBJON QIZI\nmodel: DAMAS-2\nnavbat/очередь: 38034`)
+    }
+
+    if (text === '1-120-2023-72895US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-72895US\nIsmi/Имя: ABDURASHIDOV DIYORBEK ORIFJON O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 41677`)
+    }
+
+    if (text === '1-120-2023-94059US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-94059US\nIsmi/Имя: BOBOJONOV UMIDJON FARXOD O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 38898`)
+    }
+
+    if (text === '1-120-2023-91070US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-91070US\nIsmi/Имя: ABDUG‘ANIYEVA MUATTAR ABDURASHID QIZI\nmodel: DAMAS-2\nnavbat/очередь: 35855`)
+    }
+
+    if (text === '1-120-2023-98632US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-98632US\nIsmi/Имя: XOLDORJONOVA BIROBA XOLBOJONOVNA\nmodel: DAMAS-2\nnavbat/очередь: 2547`)
+    }
+
+    if (text === '1-120-2023-91233US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-91233US\nIsmi/Имя: TURSINOV NEMATJON ABDIKARIMOVICH\nmodel: DAMAS-2\nnavbat/очередь: 36658`)
+    }
+
+    if (text === '1-120-2023-93520US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-93520US\nIsmi/Имя: G‘ANIYEVA MUXLISA MURODJON QIZI\nmodel: DAMAS-2\nnavbat/очередь: 38107`)
+    }
+
+    if (text === '1-120-2023-87725US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-87725US\nIsmi/Имя: IBRAGIMOV ABDULLO NABIDJANOVICH\nmodel: DAMAS-2\nnavbat/очередь: 39333`)
+    }
+
+    if (text === '1-120-2023-69604US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-69604US\nIsmi/Имя: NASRIDDINOV ILHOMIDDIN ISOMIDDIN O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 41337`)
+    }
+
+    if (text === '1-120-2023-97503US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-97503US\nIsmi/Имя: FIRDAVSIY MIRZAYEV MAMASOLIYEVICH\nmodel: DAMAS-2\nnavbat/очередь: 2630`)
+    }
+
+    if (text === '1-120-2023-78529US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-78529US\nIsmi/Имя: RUSTAMOV ZOKIRJON XAKIMOVICH\nmodel: DAMAS-2\nnavbat/очередь: 43443`)
+    }
+
+    if (text === '1-120-2023-96297US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-96297US\nIsmi/Имя: TURSUNOVA SAODAT XAKIMOVNA\nmodel: DAMAS-2\nnavbat/очередь: 1971`)
+    }
+
+    if (text === '1-120-2023-67363US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-67363US\nIsmi/Имя: RAZOQOV TURDALI NABIJONOVICH\nmodel: DAMAS-2\nnavbat/очередь: 39578`)
+    }
+
+    if (text === '1-120-2023-68992US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-68992US\nIsmi/Имя: ABDULLAJONOVA RAYXONA ISROILJON QIZI\nmodel: DAMAS-2\nnavbat/очередь: 36953`)
+    }
+
+    if (text === '1-120-2023-69446US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-69446US\nIsmi/Имя: DADABOYEVA GULMIRA TURDIALIYEVNA\nmodel: DAMAS-2\nnavbat/очередь: 37271`)
+    }
+
+    if (text === '1-120-2023-73369US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-73369US\nIsmi/Имя: KARIMOV RAVSHAN RASULJONOVICH\nmodel: DAMAS-2\nnavbat/очередь: 40816`)
+    }
+
+    if (text === '1-120-2023-79109US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-79109US\nIsmi/Имя: JIYANOV ORTIG‘ALI MUROTALIYEVICH\nmodel: DAMAS-2\nnavbat/очередь: 2844`)
+    }
+
+    if (text === '1-120-2023-86954US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-86954US\nIsmi/Имя: ABDUVALIYEV SHUKRULLO XABIBULLAYEVICH\nmodel: DAMAS-2\nnavbat/очередь: 3658`)
+    }
+
+    if (text === '1-120-2023-75101US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-75101US\nIsmi/Имя: Qurbonov Zoxidjon Xaydaraliyevich\nmodel: DAMAS-2\nnavbat/очередь: 38073`)
+    }
+
+    if (text === '1-120-2023-61230US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-61230US\nIsmi/Имя: G‘O‘LOMXONOV NOZIMXON NASIMXON O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 38142`)
+    }
+
+    if (text === '1-120-2023-62827US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-62827US\nIsmi/Имя: XAMIDJONOVA ODINA QOSIMJON QIZI\nmodel: DAMAS-2\nnavbat/очередь: 41267`)
+    }
+
+    if (text === '1-120-2023-88163US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-88163US\nIsmi/Имя: SAYDULLAYEVA MUYASSAR AXMADOVNA\nmodel: DAMAS-2\nnavbat/очередь: 42025`)
+    }
+
+    if (text === '1-120-2023-80155US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-80155US\nIsmi/Имя: Мамаджонова Дилором Кахоровна\nmodel: DAMAS-2\nnavbat/очередь: 40037`)
+    }
+
+    if (text === '1-120-2023-73078US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-73078US\nIsmi/Имя: XUDAYBERDIYEV AZIM ABDULLAJONOVICH\nmodel: DAMAS-2\nnavbat/очередь: 3690`)
+    }
+
+    if (text === '1-120-2023-75521US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-75521US\nIsmi/Имя: QODIRQULOV PO‘LATJON RAXMATJON O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 37467`)
+    }
+
+    if (text === '1-120-2023-85498US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-85498US\nIsmi/Имя: MIRZALIYEVA MAMURAXON RAXMONOVNA\nmodel: DAMAS-2\nnavbat/очередь: 37880`)
+    }
+
+    if (text === '1-120-2023-61131US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-61131US\nIsmi/Имя: XALIQOV ABDUJABBOR ABDUSAMATOVICH\nmodel: DAMAS-2\nnavbat/очередь: 44848`)
+    }
+
+    if (text === '1-120-2023-84736US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-84736US\nIsmi/Имя: NOSIROV RAVSHANJON YOQUBJON O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 40961`)
+    }
+
+    if (text === '1-120-2023-97787US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-97787US\nIsmi/Имя: SOTIMOVA ZARNIGOR ZAFARJON QIZI\nmodel: DAMAS-2\nnavbat/очередь: 2798`)
+    }
+
+    if (text === '1-120-2023-65357US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-65357US\nIsmi/Имя: TURSINOV ILXOMJON SOBIRJONOVICH\nmodel: DAMAS-2\nnavbat/очередь: 38333`)
+    }
+
+    if (text === '1-120-2023-67656US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-67656US\nIsmi/Имя: MANSUROV NOSIRJON MAMADIYOROVICH\nmodel: DAMAS-2\nnavbat/очередь: 42126`)
+    }
+
+    if (text === '1-120-2023-87950US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-87950US\nIsmi/Имя: KASIMOV ERKINJON XAMIDOVICH\nmodel: DAMAS-2\nnavbat/очередь: 2909`)
+    }
+
+    if (text === '1-120-2023-65231US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-65231US\nIsmi/Имя: BOTIROV JAXONGIRXON ALIXON O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 2940`)
+    }
+
+    if (text === '1-120-2023-96416US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-96416US\nIsmi/Имя: TURG‘UNOV KOMILJON ERKINJON O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 41057`)
+    }
+
+    if (text === '1-120-2023-71472US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-71472US\nIsmi/Имя: TASHXODJAYEV AXAT SAMSOKJANOVICH\nmodel: DAMAS-2\nnavbat/очередь: 3805`)
+    }
+
+    if (text === '1-120-2023-93732US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-93732US\nIsmi/Имя: SOLIBOYEV NEMATILLA KENJABOY O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 41218`)
+    }
+
+    if (text === '1-120-2023-61609US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-61609US\nIsmi/Имя: UMAROVA XALIMAXON MARUFOVNA\nmodel: DAMAS-2\nnavbat/очередь: 3385`)
+    }
+
+    if (text === '1-120-2023-61436US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-61436US\nIsmi/Имя: УСМАНЖАНОВА САНОХАТ САЛИДЖАНОВНА\nmodel: DAMAS-2\nnavbat/очередь: 44855`)
+    }
+
+    if (text === '1-120-2023-89608US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-89608US\nIsmi/Имя: XASANOV AKBARALI AKMALOVICH\nmodel: DAMAS-2\nnavbat/очередь: 44990`)
+    }
+
+    if (text === '1-120-2023-64095US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-64095US\nIsmi/Имя: SHONAZAROV SARVAR QOVULJONOVICH\nmodel: DAMAS-2\nnavbat/очередь: 2509`)
+    }
+
+    if (text === '1-120-2023-69969US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-69969US\nIsmi/Имя: MULLABAYEVA ZIYNAT KOMILJONOVNA\nmodel: DAMAS-2\nnavbat/очередь: 2520`)
+    }
+
+    if (text === '1-120-2023-65831US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-65831US\nIsmi/Имя: TURGUNOV NOZIMJON ABDUGAPPOROVICH\nmodel: DAMAS-2\nnavbat/очередь: 2927`)
+    }
+
+    if (text === '1-120-2023-89962US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-89962US\nIsmi/Имя: ABDUPATTAYEV ILHOMJON ABDURAHIM O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 44588`)
+    }
+
+    if (text === '1-120-2023-73208US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-73208US\nIsmi/Имя: QAMCHINBOYEV MUXSIDDIN DILSHOD O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 34610`)
+    }
+
+    if (text === '1-120-2023-61899US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-61899US\nIsmi/Имя: QODIROV A’ZAM ABDULAZIZOVICH\nmodel: DAMAS-2\nnavbat/очередь: 37759`)
+    }
+
+    if (text === '1-120-2023-90383US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-90383US\nIsmi/Имя: USMANOV RAVSHAN ZOKIRJONOVICH\nmodel: DAMAS-2\nnavbat/очередь: 41422`)
+    }
+
+    if (text === '1-120-2023-92124US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-92124US\nIsmi/Имя: UMAROVA ZOXIDA MAMADALIYEVNA\nmodel: DAMAS-2\nnavbat/очередь: 44265`)
+    }
+
+    if (text === '1-120-2023-76374US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-76374US\nIsmi/Имя: RAZAQOVA ZULFIYA ASHURMATOVNA\nmodel: DAMAS-2\nnavbat/очередь: 39823`)
+    }
+
+    if (text === '1-120-2023-84018US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-84018US\nIsmi/Имя: SALAXUTDINOV MADAMINXON MUXAMADALIYEVICH\nmodel: DAMAS-2\nnavbat/очередь: 34675`)
+    }
+
+    if (text === '1-120-2023-75300US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-75300US\nIsmi/Имя: NURALIYEV JASURBEK ULUG‘BEK  O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 34771`)
+    }
+
+    if (text === '1-120-2023-84667US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-84667US\nIsmi/Имя: MULLABAYEV SHERALI XAMITJONOVICH\nmodel: DAMAS-2\nnavbat/очередь: 35242`)
+    }
+
+    if (text === '1-120-2023-74233US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-74233US\nIsmi/Имя: IMOMBERDIYEVA MARXABO JO‘RABOYEVNA\nmodel: DAMAS-2\nnavbat/очередь: 41917`)
+    }
+
+    if (text === '1-120-2023-85368US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-85368US\nIsmi/Имя: ASQAROV XURSHID ABARALIYEVICH\nmodel: DAMAS-2\nnavbat/очередь: 37816`)
+    }
+
+    if (text === '1-120-2023-80510US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-80510US\nIsmi/Имя: TURSUNBOYEV AVAZJON ABDUMUTALIBOVICH\nmodel: DAMAS-2\nnavbat/очередь: 38471`)
+    }
+
+    if (text === '1-120-2023-90636US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-90636US\nIsmi/Имя: AKBAROVA MINOVVARXON VALIJONOVNA\nmodel: DAMAS-2\nnavbat/очередь: 34494`)
+    }
+
+    if (text === '1-120-2023-71332US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-71332US\nIsmi/Имя: JURAYEV JAMSHED YUNUSOVICH\nmodel: DAMAS-2\nnavbat/очередь: 38630`)
+    }
+
+    if (text === '1-120-2023-76464US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-76464US\nIsmi/Имя: NARZULLAYEVA MADINA OLIMJONOVNA\nmodel: DAMAS-2\nnavbat/очередь: 2220`)
+    }
+
+    if (text === '1-120-2023-98241US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-98241US\nIsmi/Имя: NO‘MONJONOV AXADXON AXMAD O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 35463`)
+    }
+
+    if (text === '1-120-2023-65573US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-65573US\nIsmi/Имя: IZATILLOXONOVA MUHLISAXON RASHIDXON QIZI\nmodel: DAMAS-2\nnavbat/очередь: 1945`)
+    }
+
+    if (text === '1-120-2023-67478US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-67478US\nIsmi/Имя: SKRYABIN ALEKSEY VASILEVICH\nmodel: DAMAS-2\nnavbat/очередь: 40679`)
+    }
+
+    if (text === '1-120-2023-71088US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-71088US\nIsmi/Имя: TUYCHIYEV RASHID RASULJON-O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 35299`)
+    }
+
+    if (text === '1-120-2023-66528US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-66528US\nIsmi/Имя: XABIBXONOV SHERZOD NURIDINOVICH\nmodel: DAMAS-2\nnavbat/очередь: 38979`)
+    }
+
+    if (text === '1-120-2023-95554US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-95554US\nIsmi/Имя: AKMALJON TO‘YCHIYEV TOJIBOY O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 36285`)
+    }
+
+    if (text === '1-120-2023-95695US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-95695US\nIsmi/Имя: SULTONOV MAQSUDXON DADAXONOVICH\nmodel: DAMAS-2\nnavbat/очередь: 36512`)
+    }
+
+    if (text === '1-120-2023-72204US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-72204US\nIsmi/Имя: JO‘RAYEV AZIMJON ABDUXOLIQ O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 41494`)
+    }
+
+    if (text === '1-120-2023-74073US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-74073US\nIsmi/Имя: USAROV MADADJON XOLMATOVICH\nmodel: DAMAS-2\nnavbat/очередь: 1984`)
+    }
+
+    if (text === '1-120-2023-70381US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-70381US\nIsmi/Имя: KURCHIYEVA UKTAMOY KUZIYEVNA\nmodel: DAMAS-2\nnavbat/очередь: 35623`)
+    }
+
+    if (text === '1-120-2023-60856US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-60856US\nIsmi/Имя: SAMATOVA XURSHIDA MIRZADOVLATOVNA\nmodel: DAMAS-2\nnavbat/очередь: 39891`)
+    }
+
+    if (text === '1-120-2023-63053US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-63053US\nIsmi/Имя: ERGASHEV RAHIMJON RUSTAMBOY O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 38426`)
+    }
+
+    if (text === '1-120-2023-74676US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-74676US\nIsmi/Имя: XIDOYATOVA ASHURBI XAMIDOVNA\nmodel: DAMAS-2\nnavbat/очередь: 36247`)
+    }
+
+    if (text === '1-120-2023-71670US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-71670US\nIsmi/Имя: YUSUBOVA MATLUBA KAMOLJON-QIZI\nmodel: DAMAS-2\nnavbat/очередь: 35653`)
+    }
+
+    if (text === '1-120-2023-82666US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-82666US\nIsmi/Имя: XALIKOV KURBONBOY XUSANBAYEVICH\nmodel: DAMAS-2\nnavbat/очередь: 2968`)
+    }
+
+    if (text === '1-120-2023-70754US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-70754US\nIsmi/Имя: NURMATOV SHERZOD YUSUBJONOVICH\nmodel: DAMAS-2\nnavbat/очередь: 2387`)
+    }
+
+    if (text === '1-120-2023-63228US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-63228US\nIsmi/Имя: ERMATOV RAVSHAN KOMOLIDDIN O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 43146`)
+    }
+
+    if (text === '1-120-2023-81210US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-81210US\nIsmi/Имя: TURGUNOVA SABOXATJON KUYSINALIYEVNA\nmodel: DAMAS-2\nnavbat/очередь: 40436`)
+    }
+
+    if (text === '1-120-2023-61926US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-61926US\nIsmi/Имя: QURANOVA O‘KTAMXON NABIJANOVNA\nmodel: DAMAS-2\nnavbat/очередь: 40472`)
+    }
+
+    if (text === '1-120-2023-62880US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-62880US\nIsmi/Имя: MO‘MINOV MIRZAOLIM MAXAMMADJONOVICH\nmodel: DAMAS-2\nnavbat/очередь: 44995`)
+    }
+
+    if (text === '1-120-2023-64741US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-64741US\nIsmi/Имя: ASHURMATOV RAFIQJON RUZMATJONOVICH\nmodel: DAMAS-2\nnavbat/очередь: 39544`)
+    }
+
+    if (text === '1-120-2023-66784US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-66784US\nIsmi/Имя: MIRZAAXMEDOV ABDURASUL ABDULXAFIZOVICH\nmodel: DAMAS-2\nnavbat/очередь: 43169`)
+    }
+
+    if (text === '1-120-2023-75138US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-75138US\nIsmi/Имя: AXMEDOVA DILAFRUZ GAPIROVNA\nmodel: DAMAS-2\nnavbat/очередь: 43226`)
+    }
+
+    if (text === '1-120-2023-89987US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-89987US\nIsmi/Имя: MAJIDOVA SAIDABONU RUSTAMJON QIZI\nmodel: DAMAS-2\nnavbat/очередь: 40780`)
+    }
+
+    if (text === '1-120-2023-93717US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-93717US\nIsmi/Имя: UMARALIYEV USMONALI BILOLIDIN O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 2958`)
+    }
+
+    if (text === '1-120-2023-89654US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-89654US\nIsmi/Имя: TURG‘UNOVA ZULFIYA AMATJONOVNA\nmodel: DAMAS-2\nnavbat/очередь: 42210`)
+    }
+
+    if (text === '1-120-2023-66359US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-66359US\nIsmi/Имя: ISOQOV AVAZBEK ULUG‘BEK O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 36406`)
+    }
+
+    if (text === '1-120-2023-85578US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-85578US\nIsmi/Имя: ORIPOV JAVOHIRXON BAHROMXON O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 41915`)
+    }
+
+    if (text === '1-120-2023-94217US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-94217US\nIsmi/Имя: VAQOSXONOV AZIZXON AVAZXON O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 44219`)
+    }
+
+    if (text === '1-120-2023-94228US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-94228US\nIsmi/Имя: TADJIYEV AKRAM ALIYEVICH\nmodel: DAMAS-2\nnavbat/очередь: 44824`)
+    }
+
+    if (text === '1-120-2023-82406US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-82406US\nIsmi/Имя: XALILOVA XULKAR GAPPARJANOVNA\nmodel: DAMAS-2\nnavbat/очередь: 44830`)
+    }
+
+    if (text === '1-120-2023-73275US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-73275US\nIsmi/Имя: XOLMATOV ABDULXAMID YO‘LDASHALIYEVICH\nmodel: DAMAS-2\nnavbat/очередь: 36853`)
+    }
+
+    if (text === '1-120-2023-91134US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-91134US\nIsmi/Имя: XUSANOV ABDUKARIM ABDURAXMONOVICH\nmodel: DAMAS-2\nnavbat/очередь: 40950`)
+    }
+
+    if (text === '1-120-2023-96024US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-96024US\nIsmi/Имя: MAMAYUSUPOV ABDUMUTALIB TURSUNBAYEVICH\nmodel: DAMAS-2\nnavbat/очередь: 3384`)
+    }
+
+    if (text === '1-120-2023-74769US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-74769US\nIsmi/Имя: VOXIDOV XAYDARJON XAITOVICH\nmodel: DAMAS-2\nnavbat/очередь: 39843`)
+    }
+
+    if (text === '1-120-2023-68000US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-68000US\nIsmi/Имя: DADAMIRZAYEV XUSANBOY JURAYEVICH\nmodel: DAMAS-2\nnavbat/очередь: 44323`)
+    }
+
+    if (text === '1-120-2023-64050US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-64050US\nIsmi/Имя: ISMANOV MUXAMADJON ISMAILOVICH\nmodel: DAMAS-2\nnavbat/очередь: 44364`)
+    }
+
+    if (text === '1-120-2023-75292US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-75292US\nIsmi/Имя: ATABAYEV INOMJON NOMONOVICH\nmodel: DAMAS-2\nnavbat/очередь: 39328`)
+    }
+
+    if (text === '1-120-2023-65014US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-65014US\nIsmi/Имя: URALOV ABDURASHID TO‘LQINJON O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 40297`)
+    }
+
+    if (text === '1-120-2023-65199US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-65199US\nIsmi/Имя: SULAYMANOV ABDURAXIMJON TOPILDIYEVICH\nmodel: DAMAS-2\nnavbat/очередь: 44575`)
+    }
+
+    if (text === '1-120-2023-86427US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-86427US\nIsmi/Имя: JURAYEVA MAXMUDA MELIYEVNA\nmodel: DAMAS-2\nnavbat/очередь: 42658`)
+    }
+
+    if (text === '1-120-2023-86516US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-86516US\nIsmi/Имя: YULDASHOV TOXIR AXMADALIYEVICH\nmodel: DAMAS-2\nnavbat/очередь: 41443`)
+    }
+
+    if (text === '1-120-2023-97747US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-97747US\nIsmi/Имя: MENGQOBILOVA DINORA IKROM QIZI\nmodel: DAMAS-2\nnavbat/очередь: 2809`)
+    }
+
+    if (text === '1-120-2023-79807US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-79807US\nIsmi/Имя: SAMAYEV YO‘LCHIVOY VALIYEVICH\nmodel: DAMAS-2\nnavbat/очередь: 37538`)
+    }
+
+    if (text === '1-120-2023-60306US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-60306US\nIsmi/Имя: MELIBOYEV JURABEK IXTIYOR O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 34656`)
+    }
+
+    if (text === '1-120-2023-63817US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-63817US\nIsmi/Имя: SHOHZODBEK AZAMOV SOATALI O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 34649`)
+    }
+
+    if (text === '1-120-2023-89357US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-89357US\nIsmi/Имя: Матоиров Анваржон Норбоевич\nmodel: DAMAS-2\nnavbat/очередь: 34748`)
+    }
+
+    if (text === '1-120-2023-70124US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-70124US\nIsmi/Имя: SARKABOYEVA DILRABO MUROTALIYEVNA\nmodel: DAMAS-2\nnavbat/очередь: 35382`)
+    }
+
+    if (text === '1-120-2023-98014US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-98014US\nIsmi/Имя: XAMIDOVA SHAXODAT GAFORDJANOVNA\nmodel: DAMAS-2\nnavbat/очередь: 37425`)
+    }
+
+    if (text === '1-120-2023-87485US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-87485US\nIsmi/Имя: RAXIMJONOV ZUFARJON ZAFARJON O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 35374`)
+    }
+
+    if (text === '1-120-2023-61780US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-61780US\nIsmi/Имя: ODILJONOV OTABEK OLIMJON O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 38248`)
+    }
+
+    if (text === '1-120-2023-82099US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-82099US\nIsmi/Имя: AXMADALIYEV MAMADALI ERGASHALI O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 41705`)
+    }
+
+    if (text === '1-120-2023-81969US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-81969US\nIsmi/Имя: BUVAJONOV BAXTIYOR SOBITJONOVICH\nmodel: DAMAS-2\nnavbat/очередь: 34975`)
+    }
+
+    if (text === '1-120-2023-74603US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-74603US\nIsmi/Имя: MIRZAYEV OLIMJON NOSIRJON O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 38544`)
+    }
+
+    if (text === '1-120-2023-72076US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-72076US\nIsmi/Имя: ISMANOV AZAMJON VALIJONOVICH\nmodel: DAMAS-2\nnavbat/очередь: 35804`)
+    }
+
+    if (text === '1-120-2023-86589US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-86589US\nIsmi/Имя: TUYCHIYEV DASTON TILLANAZAR O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 2400`)
+    }
+
+    if (text === '1-120-2023-81526US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-81526US\nIsmi/Имя: RAJABOVA ROBIYAJON SAMIYEVNA\nmodel: DAMAS-2\nnavbat/очередь: 37605`)
+    }
+
+    if (text === '1-120-2023-90952US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-90952US\nIsmi/Имя: XOLBOYEVA ORZIXON TURSUNOVNA\nmodel: DAMAS-2\nnavbat/очередь: 43421`)
+    }
+
+    if (text === '1-120-2023-86249US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-86249US\nIsmi/Имя: JABBOROV NEMATULLA XOJAKBAROVICH\nmodel: DAMAS-2\nnavbat/очередь: 35753`)
+    }
+
+    if (text === '1-120-2023-76822US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-76822US\nIsmi/Имя: YULDOSHEV XURSHED ESANBOYEVICH\nmodel: DAMAS-2\nnavbat/очередь: 40895`)
+    }
+
+    if (text === '1-120-2023-67354US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-67354US\nIsmi/Имя: SHERJONOV DAVRONBEK ELBEK O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 2052`)
+    }
+
+    if (text === '1-120-2023-61028US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-61028US\nIsmi/Имя: INOMOVA BARNO SOTTIMBOY QIZI\nmodel: DAMAS-2\nnavbat/очередь: 2803`)
+    }
+
+    if (text === '1-120-2023-78407US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-78407US\nIsmi/Имя: NASVALIYEVA JAXONPOSHO ESHNAZAROVNA\nmodel: DAMAS-2\nnavbat/очередь: 35813`)
+    }
+
+    if (text === '1-120-2023-70241US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-70241US\nIsmi/Имя: ASQAROVA DILSHODA G‘APPORALI QIZI\nmodel: DAMAS-2\nnavbat/очередь: 35940`)
+    }
+
+    if (text === '1-120-2023-98168US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-98168US\nIsmi/Имя: YOQUBOVA DILDORA ILHOMJON QIZI\nmodel: DAMAS-2\nnavbat/очередь: 38582`)
+    }
+
+    if (text === '1-120-2023-61494US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-61494US\nIsmi/Имя: SOATOV FOZILJON ROXATALIYEVICH\nmodel: DAMAS-2\nnavbat/очередь: 37769`)
+    }
+
+    if (text === '1-120-2023-63251US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-63251US\nIsmi/Имя: ISLAMOV IBROXIM VOXID O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 38123`)
+    }
+
+    if (text === '1-120-2023-92079US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-92079US\nIsmi/Имя: XAMIDOV FARXOD ABDUSHUKUROVICH\nmodel: DAMAS-2\nnavbat/очередь: 42387`)
+    }
+
+    if (text === '1-120-2023-96170US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-96170US\nIsmi/Имя: XASANOV SHAVKAT BOTIROVICH\nmodel: DAMAS-2\nnavbat/очередь: 41801`)
+    }
+
+    if (text === '1-120-2023-84515US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-84515US\nIsmi/Имя: SHAROPOV RUSTAMXON ERGASHEVICH\nmodel: DAMAS-2\nnavbat/очередь: 2743`)
+    }
+
+    if (text === '1-120-2023-78726US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-78726US\nIsmi/Имя: INOMJONOVA UMIDAXON G‘ULOM QIZI\nmodel: DAMAS-2\nnavbat/очередь: 42594`)
+    }
+
+    if (text === '1-120-2023-71093US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-71093US\nIsmi/Имя: NABIJONOV JASURBEK ZOKIRJON O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 3335`)
+    }
+
+    if (text === '1-120-2023-83452US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-83452US\nIsmi/Имя: XODJAYEV ZOKIRXON ODILXONOVICH\nmodel: DAMAS-2\nnavbat/очередь: 3003`)
+    }
+
+    if (text === '1-120-2023-88612US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-88612US\nIsmi/Имя: XAMRAYEVA MUYASSAR ABDULAJANOVNA\nmodel: DAMAS-2\nnavbat/очередь: 39934`)
+    }
+
+    if (text === '1-120-2023-92064US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-92064US\nIsmi/Имя: HOKIMOV RAFIQJON AMINJONOVICH\nmodel: DAMAS-2\nnavbat/очередь: 35839`)
+    }
+
+    if (text === '1-120-2023-73489US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-73489US\nIsmi/Имя: VAXOBOV ANSARXON MAXMUDOVICH\nmodel: DAMAS-2\nnavbat/очередь: 44334`)
+    }
+
+    if (text === '1-120-2023-88121US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-88121US\nIsmi/Имя: MAMASOLIYEV SHUHRATJON FAXRIDDIN O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 3423`)
+    }
+
+    if (text === '1-120-2023-63149US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-63149US\nIsmi/Имя: FAYZIYEV RAXMON OMONXONOVICH\nmodel: DAMAS-2\nnavbat/очередь: 2735`)
+    }
+
+    if (text === '1-120-2023-70140US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-70140US\nIsmi/Имя: G‘ANIYEVA ZARNIGOR G‘ULOMJON QIZI\nmodel: DAMAS-2\nnavbat/очередь: 43930`)
+    }
+
+    if (text === '1-120-2023-96130US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-96130US\nIsmi/Имя: MIRZAJONOV XUSAN ISMAILOVICH\nmodel: DAMAS-2\nnavbat/очередь: 40278`)
+    }
+
+    if (text === '1-120-2023-90130US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-90130US\nIsmi/Имя: ABDULATIF QAMBARALIYEV BAXTIYOR O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 40330`)
+    }
+
+    if (text === '1-120-2023-84465US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-84465US\nIsmi/Имя: HAMIDULLAYEV HAFIZULLO HAMIDULLO O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 39849`)
+    }
+
+    if (text === '1-120-2023-95119US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-95119US\nIsmi/Имя: HUSANOVA MOHINUR HASANJON QIZI\nmodel: DAMAS-2\nnavbat/очередь: 40517`)
+    }
+
+    if (text === '1-120-2023-90612US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-90612US\nIsmi/Имя: ALIJONOV JONIBEK BAHODIR O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 9880`)
+    }
+
+    if (text === '1-120-2023-65774US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-65774US\nIsmi/Имя: MADMUSAYEV JAXONGIR MUXTORALI O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 18649`)
+    }
+
+    if (text === '1-120-2023-78653US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-78653US\nIsmi/Имя: MIRFAYZIYEV SHAXBOZ KOMILJON O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 24857`)
+    }
+
+    if (text === '1-120-2023-77364US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-77364US\nIsmi/Имя: RAXMATILLOYEV IBRATILLOXON ISMATILLOXONOVICH\nmodel: COBALT\nnavbat/очередь: 20473`)
+    }
+
+    if (text === '1-120-2023-83996US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-83996US\nIsmi/Имя: TURDALIYEVA ETIBORXON ABIDJONOVNA\nmodel: COBALT\nnavbat/очередь: 25576`)
+    }
+
+    if (text === '1-120-2023-77672US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-77672US\nIsmi/Имя: XOLMIRZAYEV JAVLONBEK ZAKIRJANOVICH\nmodel: DAMAS-2\nnavbat/очередь: 10324`)
+    }
+
+    if (text === '1-120-2023-84994US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-84994US\nIsmi/Имя: IBRAGIMOVA MAMURAXON IMOMALIYEVNA\nmodel: COBALT\nnavbat/очередь: 24506`)
+    }
+
+    if (text === '1-120-2023-98266US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-98266US\nIsmi/Имя: XAYDAROV MADAMINJON OBIDJON-O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 552`)
+    }
+
+    if (text === '1-120-2023-60480US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-60480US\nIsmi/Имя: SHARAFIDINOV SHERZOD JAMOLIDINOVICH\nmodel: COBALT\nnavbat/очередь: 20403`)
+    }
+
+    if (text === '1-120-2023-73617US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-73617US\nIsmi/Имя: MAKSUDOV ALISHER BAXROM OGLI\nmodel: COBALT\nnavbat/очередь: 21007`)
+    }
+
+    if (text === '1-120-2023-79776US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-79776US\nIsmi/Имя: ZOKIROVA GULMIRA ABDULAZIZ QIZI\nmodel: COBALT\nnavbat/очередь: 20565`)
+    }
+
+    if (text === '1-120-2023-76562US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-76562US\nIsmi/Имя: PARPIYEV DONIYORBEK ALIJON O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 9757`)
+    }
+
+    if (text === '1-120-2023-92420US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-92420US\nIsmi/Имя: ERGASHEV MAMADJON XXX\nmodel: DAMAS-2\nnavbat/очередь: 10214`)
+    }
+
+    if (text === '1-120-2023-64184US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-64184US\nIsmi/Имя: Valiyev Anasxon Muxammadjon o‘g‘li\nmodel: COBALT\nnavbat/очередь: 17307`)
+    }
+
+    if (text === '1-120-2023-68480US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-68480US\nIsmi/Имя: RASULOV SHERALI ABDURAXMONOVICH\nmodel: DAMAS-2\nnavbat/очередь: 10299`)
+    }
+
+    if (text === '1-120-2023-65964US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-65964US\nIsmi/Имя: ASQARALIYEV AHLIYOR ABRORJON O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 19424`)
+    }
+
+    if (text === '1-120-2023-62364US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-62364US\nIsmi/Имя: NABIJONOVA FERUZA NODIRJON-QIZI\nmodel: COBALT\nnavbat/очередь: 19447`)
+    }
+
+    if (text === '1-120-2023-91108US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-91108US\nIsmi/Имя: AXMEDOV RAVSHANBEK OBIDJONOVICH\nmodel: COBALT\nnavbat/очередь: 18006`)
+    }
+
+    if (text === '1-120-2023-79897US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-79897US\nIsmi/Имя: SHOYUNUSOV ABDULLO SHORAXIM O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 21272`)
+    }
+
+    if (text === '1-120-2023-76597US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-76597US\nIsmi/Имя: NURIDDINOV BILOLXON ZUXRIDDIN O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 19668`)
+    }
+
+    if (text === '1-120-2023-82170US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-82170US\nIsmi/Имя: AKRAMOV ISROIL SALIMJON O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 20333`)
+    }
+
+    if (text === '1-120-2023-90672US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-90672US\nIsmi/Имя: RAFIKOVA KARAMATJON MUXAYDINOVNA\nmodel: COBALT\nnavbat/очередь: 25366`)
+    }
+
+    if (text === '1-120-2023-72931US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-72931US\nIsmi/Имя: SOLIXONOV MUZAFFAR AZAMATXON O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 20048`)
+    }
+
+    if (text === '1-120-2023-73931US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-73931US\nIsmi/Имя: QALANDAROVA MUNISAXON ZOXIRJONOVNA\nmodel: COBALT\nnavbat/очередь: 24678`)
+    }
+
+    if (text === '1-120-2023-75065US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-75065US\nIsmi/Имя: To‘xtanazarova Zeboxon Abdurasul qizi\nmodel: COBALT\nnavbat/очередь: 24718`)
+    }
+
+    if (text === '1-120-2023-63801US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-63801US\nIsmi/Имя: BEKNAZAROV SOLI XXX\nmodel: COBALT\nnavbat/очередь: 24644`)
+    }
+
+    if (text === '1-120-2023-72403US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-72403US\nIsmi/Имя: ZOKIROV FAYZULLO RAHMATULLO O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 9973`)
+    }
+
+    if (text === '1-120-2023-92643US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-92643US\nIsmi/Имя: VALIJONOV BOTIRJON MAMURJON O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 10280`)
+    }
+
+    if (text === '1-120-2023-92125US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-92125US\nIsmi/Имя: Nabiyev Sardorbek To‘Lashboy O‘G‘Li\nmodel: DAMAS-2\nnavbat/очередь: 10099`)
+    }
+
+    if (text === '1-120-2023-61138US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-61138US\nIsmi/Имя: MUXAMMADJONOV KOMILJON OLIMJONOVICH\nmodel: COBALT\nnavbat/очередь: 26003`)
+    }
+
+    if (text === '1-120-2023-87346US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-87346US\nIsmi/Имя: YUNUSOV XAKIMJON SOXIYEVICH\nmodel: DAMAS-2\nnavbat/очередь: 10291`)
+    }
+
+    if (text === '1-120-2023-60679US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-60679US\nIsmi/Имя: KARIMOVA MA’RIFATJON XUDOYBERDI QIZI\nmodel: COBALT\nnavbat/очередь: 25808`)
+    }
+
+    if (text === '1-120-2023-97268US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-97268US\nIsmi/Имя: G‘ULOMOV ULUG‘BEK G‘AFURJON O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 25836`)
+    }
+
+    if (text === '1-120-2023-99236US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99236US\nIsmi/Имя: DEXKANOVA JAMILA TURSUNBAYEVNA\nmodel: COBALT\nnavbat/очередь: 24732`)
+    }
+
+    if (text === '1-120-2023-69754US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-69754US\nIsmi/Имя: MAMADJONOVA SANOATJON GAPPOROVNA\nmodel: DAMAS-2\nnavbat/очередь: 10315`)
+    }
+
+    if (text === '1-120-2023-89770US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-89770US\nIsmi/Имя: VALIYEV KENJA UMAROVICH\nmodel: COBALT\nnavbat/очередь: 25981`)
+    }
+
+    if (text === '1-120-2023-77890US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-77890US\nIsmi/Имя: OTAJONOVA XAMIDA OBIDJONOVNA\nmodel: DAMAS-2\nnavbat/очередь: 9618`)
+    }
+
+    if (text === '1-120-2023-97342US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-97342US\nIsmi/Имя: ABDUGAFAROVA NODIRA ABDUSATTOROVNA\nmodel: COBALT\nnavbat/очередь: 14342`)
+    }
+
+    if (text === '1-120-2023-99859US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99859US\nIsmi/Имя: RAHMONOV YUSUPXON AHMATJONOVICH\nmodel: COBALT\nnavbat/очередь: 8827`)
+    }
+
+    if (text === '1-120-2023-87535US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-87535US\nIsmi/Имя: MAMATULLAYEV ISLOMJON ISOQOVICH\nmodel: COBALT\nnavbat/очередь: 20042`)
+    }
+
+    if (text === '1-120-2023-94993US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-94993US\nIsmi/Имя: URALOVA SHAXNOZA RUSTAMALIYEVNA\nmodel: COBALT\nnavbat/очередь: 20347`)
+    }
+
+    if (text === '1-120-2023-90195US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-90195US\nIsmi/Имя: SHOKARIMOVA DILBARJON RAIMOVNA\nmodel: DAMAS-2\nnavbat/очередь: 10210`)
+    }
+
+    if (text === '1-120-2023-71128US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-71128US\nIsmi/Имя: KARIMOV ZOKIRXON O‘LMASXON O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 10218`)
+    }
+
+    if (text === '1-120-2023-77901US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-77901US\nIsmi/Имя: NURULLAYEV BOBIRJON MUXAMADJON O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 25065`)
+    }
+
+    if (text === '1-120-2023-98788US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-98788US\nIsmi/Имя: IMOMOV ISLOMJON OLIMJON O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 25826`)
+    }
+
+    if (text === '1-120-2023-69114US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-69114US\nIsmi/Имя: ISMATULLAYEVA NAZOKAT RAIMOVNA\nmodel: COBALT\nnavbat/очередь: 23665`)
+    }
+
+    if (text === '1-120-2023-99873US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99873US\nIsmi/Имя: VOXIDOV XUSNIDDIN XAYDARJON-O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 9253`)
+    }
+
+    if (text === '1-120-2023-99833US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99833US\nIsmi/Имя: DJURABAYEV AXMAD NAMANDJANOVICH\nmodel: COBALT\nnavbat/очередь: 7805`)
+    }
+
+    if (text === '1-120-2023-97650US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-97650US\nIsmi/Имя: NE’MATOV AKMALJON NOSIRJON O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 1011`)
+    }
+
+    if (text === '1-120-2023-96944US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-96944US\nIsmi/Имя: IBROHIMOVA NILUFAR BAXTIYOR QIZI\nmodel: COBALT\nnavbat/очередь: 15061`)
+    }
+
+    if (text === '1-120-2023-99852US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99852US\nIsmi/Имя: Sayfiddinova Fatima Tursunbayevna\nmodel: COBALT\nnavbat/очередь: 8621`)
+    }
+
+    if (text === '1-120-2023-71445US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-71445US\nIsmi/Имя: G‘ANIJONOV A’ZAMJON G‘ANIJON O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 20998`)
+    }
+
+    if (text === '1-120-2023-86003US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-86003US\nIsmi/Имя: NAZIROV BEXRUZ NURILLOJON O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 10309`)
+    }
+
+    if (text === '1-120-2023-90951US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-90951US\nIsmi/Имя: IMAMOVA ODINA DARMONKULOVNA\nmodel: COBALT\nnavbat/очередь: 19483`)
+    }
+
+    if (text === '1-120-2023-97289US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-97289US\nIsmi/Имя: MAHMUDJONOVA FARANGIZBONU MUHAMMADJON QIZI\nmodel: COBALT\nnavbat/очередь: 22172`)
+    }
+
+    if (text === '1-120-2023-78754US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-78754US\nIsmi/Имя: RUSTAMOV DILMURODXON ODIL O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 23566`)
+    }
+
+    if (text === '1-120-2023-73055US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-73055US\nIsmi/Имя: PAZILOV FARHOD RAXMONALIYEVICH\nmodel: DAMAS-2\nnavbat/очередь: 10332`)
+    }
+
+    if (text === '1-120-2023-61068US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-61068US\nIsmi/Имя: ADXAMOV JAXONGIR IZZATULLO O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 11190`)
+    }
+
+    if (text === '1-120-2023-98794US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-98794US\nIsmi/Имя: YUSUBJONOV SHAXBOZ MURODJON O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 204`)
+    }
+
+    if (text === '1-120-2023-65130US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-65130US\nIsmi/Имя: ABDULLAMUDOVA NAIMA HAYDAROVNA\nmodel: COBALT\nnavbat/очередь: 9409`)
+    }
+
+    if (text === '1-120-2023-60443US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-60443US\nIsmi/Имя: DILSHOD XAMIDJONOV FAZLIDIN-O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 24129`)
+    }
+
+    if (text === '1-120-2023-72804US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-72804US\nIsmi/Имя: SHAMSIDDINOV MUHAMMADJON G‘ULOMJON O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 22941`)
+    }
+
+    if (text === '1-120-2023-87101US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-87101US\nIsmi/Имя: IMOMBERDIYEV MUZAFFAR G‘IYOSIDDINOVICH\nmodel: DAMAS-2\nnavbat/очередь: 9442`)
+    }
+
+    if (text === '1-120-2023-65730US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-65730US\nIsmi/Имя: MIRZALIYEV SAYDULLA DAVLATOVICH\nmodel: COBALT\nnavbat/очередь: 18892`)
+    }
+
+    if (text === '1-120-2023-98458US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-98458US\nIsmi/Имя: FAYZULLAYEV JO‘RABEK LUTFULLOXON O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 12811`)
+    }
+
+    if (text === '1-120-2023-77133US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-77133US\nIsmi/Имя: SADIYEV MAMUR SAYFULLAYEVICH\nmodel: DAMAS-2\nnavbat/очередь: 10156`)
+    }
+
+    if (text === '1-120-2023-93489US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-93489US\nIsmi/Имя: ABDULLAYEV AZAMAT TO‘YCHIBOYEVICH\nmodel: DAMAS-2\nnavbat/очередь: 9609`)
+    }
+
+    if (text === '1-120-2023-80277US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-80277US\nIsmi/Имя: ABDULLAYEV MA’RUFJON XAFIZJON O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 18448`)
+    }
+
+    if (text === '1-120-2023-98921US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-98921US\nIsmi/Имя: MAMADJONOV ABDULLOJON DJO‘RAYEVICH\nmodel: COBALT\nnavbat/очередь: 16670`)
+    }
+
+    if (text === '1-120-2023-76078US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-76078US\nIsmi/Имя: SODIQOV SARDOR XOLMAT  O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 18784`)
+    }
+
+    if (text === '1-120-2023-67476US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-67476US\nIsmi/Имя: YO‘LDASHEV BOXODIR XUDAYBERDIYEVICH\nmodel: COBALT\nnavbat/очередь: 20495`)
+    }
+
+    if (text === '1-120-2023-83775US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-83775US\nIsmi/Имя: EGAMBERDIYEV JAMSHID BAXTIYOR O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 1136`)
+    }
+
+    if (text === '1-120-2023-86998US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-86998US\nIsmi/Имя: MUXABATJON TURDIALIYEVA ALIJONOVNA\nmodel: COBALT\nnavbat/очередь: 15623`)
+    }
+
+    if (text === '1-120-2023-91331US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-91331US\nIsmi/Имя: HUSANOV DILMUROD NU’MONXONOVICH\nmodel: DAMAS-2\nnavbat/очередь: 9717`)
+    }
+
+    if (text === '1-120-2023-72503US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-72503US\nIsmi/Имя: RUSTAMOVA MARXABO RO‘ZMATJON QIZI\nmodel: DAMAS-2\nnavbat/очередь: 9996`)
+    }
+
+    if (text === '1-120-2023-60150US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-60150US\nIsmi/Имя: MAVRUTALIYEV HAYITALI BAXTIYOR O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 21797`)
+    }
+
+    if (text === '1-120-2023-92334US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-92334US\nIsmi/Имя: YULCHIYEV ABDUKODIR ABDULAZIZOVICH\nmodel: DAMAS-2\nnavbat/очередь: 10041`)
+    }
+
+    if (text === '1-120-2023-87001US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-87001US\nIsmi/Имя: RAXMATILLOYEVA NAVRUZA NIMATILLOYEVNA\nmodel: COBALT\nnavbat/очередь: 17989`)
+    }
+
+    if (text === '1-120-2023-95570US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-95570US\nIsmi/Имя: YUSUPOV MURODJON SHONIYAZOVICH\nmodel: COBALT\nnavbat/очередь: 18170`)
+    }
+
+    if (text === '1-120-2023-92121US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-92121US\nIsmi/Имя: SHARIPOVA MATLYUBA NABIJONOVNA\nmodel: COBALT\nnavbat/очередь: 20668`)
+    }
+
+    if (text === '1-120-2023-84642US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-84642US\nIsmi/Имя: AKRAMOV OLIM SOLIJANOVICH\nmodel: COBALT\nnavbat/очередь: 19888`)
+    }
+
+    if (text === '1-120-2023-62477US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-62477US\nIsmi/Имя: DADAJONOV ABRORJON ABDURASHIT O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 18461`)
+    }
+
+    if (text === '1-120-2023-65745US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-65745US\nIsmi/Имя: IBRAGIMOVA SAVRINISSO SOBITOVNA\nmodel: COBALT\nnavbat/очередь: 14746`)
+    }
+
+    if (text === '1-120-2023-70890US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-70890US\nIsmi/Имя: ABDURAXMONOVA NILUFAR ABDUJALIL QIZI\nmodel: COBALT\nnavbat/очередь: 1336`)
+    }
+
+    if (text === '1-120-2023-61045US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-61045US\nIsmi/Имя: KOMILOV GAYBULLO MUBILLAYEVICH\nmodel: COBALT\nnavbat/очередь: 24738`)
+    }
+
+    if (text === '1-120-2023-83078US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-83078US\nIsmi/Имя: OXUNOV BEHZODJON MAMURJON O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 10032`)
+    }
+
+    if (text === '1-120-2023-81627US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-81627US\nIsmi/Имя: AXMEDOVA NAFISA BOTRALI QIZI\nmodel: COBALT\nnavbat/очередь: 24283`)
+    }
+
+    if (text === '1-120-2023-75422US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-75422US\nIsmi/Имя: ESHONALIYEV AZIZBEK NURMAMAT O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 18848`)
+    }
+
+    if (text === '1-120-2023-82362US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-82362US\nIsmi/Имя: VOXOBOV ABROR ABDUQAXXOR O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 9771`)
+    }
+
+    if (text === '1-120-2023-60778US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-60778US\nIsmi/Имя: MIRZAXMEDOV XUSANBAY AKBARALIYEVICH\nmodel: DAMAS-2\nnavbat/очередь: 10257`)
+    }
+
+    if (text === '1-120-2023-83630US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-83630US\nIsmi/Имя: OBIDOV SHERZOD ORIF O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 14570`)
+    }
+
+    if (text === '1-120-2023-70045US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-70045US\nIsmi/Имя: LUTFULLAYEV MUHIDDIN MUXIBILLAYEVICH\nmodel: COBALT\nnavbat/очередь: 22628`)
+    }
+
+    if (text === '1-120-2023-76938US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-76938US\nIsmi/Имя: EGAMOV JAHONGIR USTAMIRZAYEVICH\nmodel: COBALT\nnavbat/очередь: 1184`)
+    }
+
+    if (text === '1-120-2023-94538US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-94538US\nIsmi/Имя: NAZAROV BEGMUROD TOXIRJON O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 10114`)
+    }
+
+    if (text === '1-120-2023-68612US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-68612US\nIsmi/Имя: HAMIDOVA SAYYORA AKRAMJON QIZI\nmodel: COBALT\nnavbat/очередь: 22999`)
+    }
+
+    if (text === '1-120-2023-78921US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-78921US\nIsmi/Имя: ROZIQOVA UMIDAJON MAHMUTJON QIZI\nmodel: COBALT\nnavbat/очередь: 24908`)
+    }
+
+    if (text === '1-120-2023-80907US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-80907US\nIsmi/Имя: AKBARALIYEVA RUJONBI TURSUNBOYEVNA\nmodel: DAMAS-2\nnavbat/очередь: 10206`)
+    }
+
+    if (text === '1-120-2023-94319US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-94319US\nIsmi/Имя: XUKUMOV  RASHIDJON RAXIMJONOVICH\nmodel: DAMAS-2\nnavbat/очередь: 10287`)
+    }
+
+    if (text === '1-120-2023-67394US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-67394US\nIsmi/Имя: NURILLAYEV MUHAMMADXON ISROILXON O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 10237`)
+    }
+
+    if (text === '1-120-2023-66178US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-66178US\nIsmi/Имя: RASULOV DOSTONJON RUSTAMJON O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 18503`)
+    }
+
+    if (text === '1-120-2023-66343US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-66343US\nIsmi/Имя: MAHAMMADJONOVA MASHXURA AZAMJON QIZI\nmodel: COBALT\nnavbat/очередь: 9694`)
+    }
+
+    if (text === '1-120-2023-99862US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99862US\nIsmi/Имя: XASAN ABDULXAMIDOV QAXRAMONOVICH\nmodel: COBALT\nnavbat/очередь: 8889`)
+    }
+
+    if (text === '1-120-2023-99830US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99830US\nIsmi/Имя: AXMATALIYEV JAMSHID RUSTAMJONOVICH\nmodel: DAMAS-2\nnavbat/очередь: 19`)
+    }
+
+    if (text === '1-120-2023-99807US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99807US\nIsmi/Имя: ERGASHEV AZIZBEK ABDULVAHOB O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 6880`)
+    }
+
+    if (text === '1-120-2023-94417US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-94417US\nIsmi/Имя: TUXTABAYEV MUXITDIN NURIDDINOCHIV\nmodel: COBALT\nnavbat/очередь: 14504`)
+    }
+
+    if (text === '1-120-2023-99778US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99778US\nIsmi/Имя: YULDASHEVA SHOXIDA AKMALJON QIZI\nmodel: COBALT\nnavbat/очередь: 4841`)
+    }
+
+    if (text === '1-120-2023-99793US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99793US\nIsmi/Имя: ERGASHEV AZIZBEK KADIRALI O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 6052`)
+    }
+
+    if (text === '1-120-2023-99841US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99841US\nIsmi/Имя: Тухтаев Умиджон Рустамжон угли\nmodel: COBALT\nnavbat/очередь: 8127`)
+    }
+
+    if (text === '1-120-2023-99849US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99849US\nIsmi/Имя: ABDUMALIKOV MUXTORJON AXADOVICH\nmodel: COBALT\nnavbat/очередь: 8424`)
+    }
+
+    if (text === '1-120-2023-99856US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99856US\nIsmi/Имя: YULDASHEV MUZAFFAR XAMIDULLAYEVICH\nmodel: COBALT\nnavbat/очередь: 8736`)
+    }
+
+    if (text === '1-120-2023-90294US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-90294US\nIsmi/Имя: SHOKIR ABDULLAYEV XAKIMDJANOVICH\nmodel: COBALT\nnavbat/очередь: 12602`)
+    }
+
+    if (text === '1-120-2023-95028US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-95028US\nIsmi/Имя: HAYDAROV JAHONGIR BAHODIR O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 17267`)
+    }
+
+    if (text === '1-120-2023-91354US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-91354US\nIsmi/Имя: ERGASHEV JASURBEK TURAMIRZAYEVICH\nmodel: COBALT\nnavbat/очередь: 23564`)
+    }
+
+    if (text === '1-120-2023-99840US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99840US\nIsmi/Имя: YO‘LDASHEV JALOLDIN BOTIRALI O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 8111`)
+    }
+
+    if (text === '1-120-2023-99781US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99781US\nIsmi/Имя: TURSINOV XASANBOY ABDUKARIMOVICH\nmodel: COBALT\nnavbat/очередь: 5291`)
+    }
+
+    if (text === '1-120-2023-81975US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-81975USx\nIsmi/Имя: AZIMOV ZUXRIDDIN SADULLOJON O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 17252`)
+    }
+
+    if (text === '1-120-2023-67460US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-67460US\nIsmi/Имя: RAIMJONOVA MUYASSARXON IBRAGIMOVNA\nmodel: COBALT\nnavbat/очередь: 12440`)
+    }
+
+    if (text === '1-120-2023-99864US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99864US\nIsmi/Имя: ABDULLAYEVA FARIDA XODJIMIRZAYEVNA\nmodel: COBALT\nnavbat/очередь: 8944`)
+    }
+
+    if (text === '1-120-2023-89816US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-89816US\nIsmi/Имя: SAYDIKARIMOVA NODIRA DANIYAROVNA\nmodel: COBALT\nnavbat/очередь: 15374`)
+    }
+
+    if (text === '1-120-2023-61706US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-61706US\nIsmi/Имя: SULEYMANOVA DILYARA SAMEDINOVNA\nmodel: COBALT\nnavbat/очередь: 10008`)
+    }
+
+    if (text === '1-120-2023-99845US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99845US\nIsmi/Имя: KOMILOV ATHAMJON ABDUMO‘MINOVICH\nmodel: DAMAS-2\nnavbat/очередь: 9399`)
+    }
+
+    if (text === '1-120-2023-63343US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-63343US\nIsmi/Имя: BOBOJONOVA DILDORAJON NEMATJON-QIZI\nmodel: COBALT\nnavbat/очередь: 11136`)
+    }
+
+    if (text === '1-120-2023-99782US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99782US\nIsmi/Имя: TILONAZAROV DOVRONBEK ALINAZAROVICH\nmodel: COBALT\nnavbat/очередь: 5381`)
+    }
+
+    if (text === '1-120-2023-72361US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-72361US\nIsmi/Имя: SAMIDDINOV DONIYORBEK SODIQJON O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 16106`)
+    }
+
+    if (text === '1-120-2023-90264US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-90264US\nIsmi/Имя: UBAYDULLAYEV SHODYOR SHUKURJON O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 10102`)
+    }
+
+    if (text === '1-120-2023-80910US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-80910US\nIsmi/Имя: Valiyev Baxodir Xaydarovich\nmodel: DAMAS-2\nnavbat/очередь: 10153`)
+    }
+
+    if (text === '1-120-2023-99821US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99821US\nIsmi/Имя: TASHPULATOVA MAXBUBA ABDUXAMID QIZI\nmodel: COBALT\nnavbat/очередь: 7248`)
+    }
+
+    if (text === '1-120-2023-74863US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-74863US\nIsmi/Имя: DEDAMIRZAYEV XOJIAKBAR AXMADJON O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 10092`)
+    }
+
+    if (text === '1-120-2023-99815US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99815US\nIsmi/Имя: INOYATOV OBIDJON NEMATJONOVICH\nmodel: COBALT\nnavbat/очередь: 7084`)
+    }
+
+    if (text === '1-120-2023-99866US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99866US\nIsmi/Имя: Насиров Баходир Насим Угли\nmodel: COBALT\nnavbat/очередь: 9027`)
+    }
+
+    if (text === '1-120-2023-99806US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99806US\nIsmi/Имя: ISABAYEV YULDASHBOY JURAVAYEVICH\nmodel: COBALT\nnavbat/очередь: 6873`)
+    }
+
+    if (text === '1-120-2023-99808US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99808US\nIsmi/Имя: KASIMOV FARXOD ERKINJONOVICH\nmodel: COBALT\nnavbat/очередь: 6885`)
+    }
+
+    if (text === '1-120-2023-99800US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99800US\nIsmi/Имя: MIRJAFAROV MIRSAID SULTONBOY O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 6651`)
+    }
+
+    if (text === '1-120-2023-96379US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-96379US\nIsmi/Имя: MAMANAZAROV SHERZODJON SALIMBOY O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 70`)
+    }
+
+    if (text === '1-120-2023-94329US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-94329US\nIsmi/Имя: SIDIQJANOV ABDULLOXON YAXYOXON O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 19212`)
+    }
+
+    if (text === '1-120-2023-90665US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-90665US\nIsmi/Имя: SAYDULLAYEV OBIDJON MAXMUDOVICH\nmodel: COBALT\nnavbat/очередь: 13848`)
+    }
+
+    if (text === '1-120-2023-99810US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99810US\nIsmi/Имя: SAMIYEVA SAODATJON AXMEDOVNA\nmodel: COBALT\nnavbat/очередь: 6917`)
+    }
+
+    if (text === '1-120-2023-99792US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99792US\nIsmi/Имя: KOMILOV SHAXRIYOR FAZLIDDIN O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 6046`)
+    }
+
+    if (text === '1-120-2023-99869US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99869US\nIsmi/Имя: XUDOYBERDIYEV AKMALJON ORZIMAT O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 9430`)
+    }
+
+    if (text === '1-120-2023-99848US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99848US\nIsmi/Имя: ALLAGULOV ILNUR GANIYEVICH\nmodel: COBALT\nnavbat/очередь: 355`)
+    }
+
+    if (text === '1-120-2023-99860US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99860US\nIsmi/Имя: SHARIFJONOVA MAXLIYO MARUFJON QIZI\nmodel: COBALT\nnavbat/очередь: 8837`)
+    }
+
+    if (text === '1-120-2023-60617US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-60617US\nIsmi/Имя: Хакимова Турсуной Усмановна\nmodel: COBALT\nnavbat/очередь: 20703`)
+    }
+
+    if (text === '1-120-2023-76222US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-76222US\nIsmi/Имя: JURAYEV NODIRBEK SHOKIRJON O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 15884`)
+    }
+
+    if (text === '1-120-2023-98030US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-98030US\nIsmi/Имя: YUSUPJONOV ISLOMJON TURSUNBOY O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 19171`)
+    }
+
+    if (text === '1-120-2023-99805US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99805US\nIsmi/Имя: MIRZAXALOV SARDORBEK JAMOLIDDINOVICH\nmodel: COBALT\nnavbat/очередь: 6859`)
+    }
+
+    if (text === '1-120-2023-99797US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99797US\nIsmi/Имя: SHAROPOV TOHIRJON UTKIR O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 6499`)
+    }
+
+    if (text === '1-120-2023-99850US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99850US\nIsmi/Имя: MUXSINALIYEV YAHYOBEK ASRORJON O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 8456`)
+    }
+
+    if (text === '1-120-2023-76556US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-76556US\nIsmi/Имя: ABDURAXMONOV UMIDJON RAXMONAZAR O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 9902`)
+    }
+
+    if (text === '1-120-2023-69899US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-69899US\nIsmi/Имя: ABDUSATTOROV ANVARJON A’ZAM O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 11773`)
+    }
+
+    if (text === '1-120-2023-99863US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99863US\nIsmi/Имя: AKBARALIYEV ORIFALI AKRAMALI O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 8938`)
+    }
+
+    if (text === '1-120-2023-99829US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99829US\nIsmi/Имя: SOBIROV ELYOR ODILOVICH\nmodel: COBALT\nnavbat/очередь: 7659`)
+    }
+
+    if (text === '1-120-2023-94294US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-94294US\nIsmi/Имя: TO‘YCHIYEV ULUG‘BEK RAHMATJON O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 20077`)
+    }
+
+    if (text === '1-120-2023-83926US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-83926US\nIsmi/Имя: SHARAFUDDINOV TUXTASIN MUXIDDINOVICH\nmodel: COBALT\nnavbat/очередь: 13620`)
+    }
+
+    if (text === '1-120-2023-76216US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-76216US\nIsmi/Имя: AKBAROVA MUKADDASXON GANIYEVNA\nmodel: COBALT\nnavbat/очередь: 18741`)
+    }
+
+    if (text === '1-120-2023-73399US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-73399US\nIsmi/Имя: USMANOV MAMUR RAXIMJONOVICH\nmodel: COBALT\nnavbat/очередь: 10214`)
+    }
+
+    if (text === '1-120-2023-85348US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-85348US\nIsmi/Имя: AXMEDOV SOBIRJON USUVALIYEVICH\nmodel: COBALT\nnavbat/очередь: 19898`)
+    }
+
+    if (text === '1-120-2023-99814US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99814US\nIsmi/Имя: AZIZOV BAXROM ABDULMATINOVICH\nmodel: COBALT\nnavbat/очередь: 7078`)
+    }
+
+    if (text === '1-120-2023-99843US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99843US\nIsmi/Имя: ZOKIRJONOV JALOLIDDIN JAVLONBEK O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 8145`)
+    }
+
+    if (text === '1-120-2023-96930US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-96930US\nIsmi/Имя: UZOQOVA GULNORA SULTONMAXMUDOVNA\nmodel: COBALT\nnavbat/очередь: 12394`)
+    }
+
+    if (text === '1-120-2023-99872US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99872US\nIsmi/Имя: ALIYEVA XALIMA XXX\nmodel: COBALT\nnavbat/очередь: 9230`)
+    }
+
+    if (text === '1-120-2023-89112US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-89112US\nIsmi/Имя: UBAYDULLAYEVA MANZURA USMANDJANOVNA\nmodel: COBALT\nnavbat/очередь: 17849`)
+    }
+
+    if (text === '1-120-2023-99865US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99865US\nIsmi/Имя: UZOQOV SHOKIRJON KARIMJONOVICH\nmodel: COBALT\nnavbat/очередь: 8947`)
+    }
+
+    if (text === '1-120-2023-99838US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99838US\nIsmi/Имя: USMANOV BAXROM ISMAILJANOVICH\nmodel: COBALT\nnavbat/очередь: 244`)
+    }
+
+    if (text === '1-120-2023-97844US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-97844US\nIsmi/Имя: MANSUR TURDIALIYEV MARUPOVICH\nmodel: COBALT\nnavbat/очередь: 13555`)
+    }
+
+    if (text === '1-120-2023-99770US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99770US\nIsmi/Имя: SHERMIRZAYEV JAXONGIR DADAMIRZA O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 4157`)
+    }
+
+    if (text === '1-120-2023-99769US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99769US\nIsmi/Имя: MUSAYEV AKMAL AZIMOVICH\nmodel: COBALT\nnavbat/очередь: 4156`)
+    }
+
+    if (text === '1-120-2023-99771US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99771US\nIsmi/Имя: NAJMIDDINOV RAXMATILLA QUDRATILLA O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 4336`)
+    }
+
+    if (text === '1-120-2023-99772US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99772US\nIsmi/Имя: VALIXONOV TILLABOY SHOKIRXON O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 1`)
+    }
+
+    if (text === '1-120-2023-99777US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99777US\nIsmi/Имя: DJALILOV ANVAR XAMITOVICH\nmodel: COBALT\nnavbat/очередь: 4826`)
+    }
+
+    if (text === '1-120-2023-99774US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99774US\nIsmi/Имя: DJALILOV FAXRIDIN XAMITJANOVICH\nmodel: COBALT\nnavbat/очередь: 4728`)
+    }
+
+    if (text === '1-120-2023-99783US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99783US\nIsmi/Имя: MAXMUDOV MIRZABAXROM MA’RUF O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 134`)
+    }
+
+    if (text === '1-120-2023-99784US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99784US\nIsmi/Имя: SHOYUNUSOVA MAHMUDA RASULJON QIZI\nmodel: COBALT\nnavbat/очередь: 5539`)
+    }
+
+    if (text === '1-120-2023-99809US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99809US\nIsmi/Имя: QURVONBOYEV DONIYOR JUMANAZAROVICH\nmodel: COBALT\nnavbat/очередь: 6899`)
+    }
+
+    if (text === '1-120-2023-99796US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99796US\nIsmi/Имя: MIRZAJONOV SAIDJON NURIDDINJON O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 6312`)
+    }
+
+    if (text === '1-120-2023-99827US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99827US\nIsmi/Имя: XOJIMATOVA SANOBAR SOBITOVNA\nmodel: COBALT\nnavbat/очередь: 7427`)
+    }
+
+    if (text === '1-120-2023-99788US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99788US\nIsmi/Имя: JAZIMOVA HAYOTXON KOMILJONOVNA\nmodel: COBALT\nnavbat/очередь: 5878`)
+    }
+
+    if (text === '1-120-2023-99802US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99802US\nIsmi/Имя: ABDULLAJONOV IQBOL DILMUROD O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 6763`)
+    }
+
+    if (text === '1-120-2023-99804US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99804US\nIsmi/Имя: NODIROV ABDUVOXID BEKMUROD O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 6837`)
+    }
+
+    if (text === '1-120-2023-99799US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99799US\nIsmi/Имя: RAXMATULLAYEVA LATOFAT IZZATULLAYEVNA\nmodel: COBALT\nnavbat/очередь: 6597`)
+    }
+
+    if (text === '1-120-2023-99801US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99801US\nIsmi/Имя: SALIMOV MAXSUDJON ERGASH-O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 9354`)
+    }
+
+    if (text === '1-120-2023-99787US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99787US\nIsmi/Имя: MAMADJONOVA SHOIRA XUSNIDDIN QIZI\nmodel: COBALT\nnavbat/очередь: 5841`)
+    }
+
+    if (text === '1-120-2023-99789US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99789US\nIsmi/Имя: USMONOV JAVOHIR DILMUROD-O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 5902`)
+    }
+
+    if (text === '1-120-2023-99855US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99855US\nIsmi/Имя: ZOKIROV AXMATXON AMONOVICH\nmodel: DAMAS-2\nnavbat/очередь: 9414`)
+    }
+
+    if (text === '1-120-2023-99854US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99854US\nIsmi/Имя: TURSUNOV OMONDJON XAMIDOVICH\nmodel: COBALT\nnavbat/очередь: 8667`)
+    }
+
+    if (text === '1-120-2023-99842US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99842US\nIsmi/Имя: BOQIJONOV ABDULLAJON NE’MATJON O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 8132`)
+    }
+
+    if (text === '1-120-2023-99844US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99844US\nIsmi/Имя: USMONALIYEV ABDUSATOR MILIYEVICH\nmodel: COBALT\nnavbat/очередь: 8153`)
+    }
+
+    if (text === '1-120-2023-99803US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99803US\nIsmi/Имя: ESHONOVA MUNOJATXON XATAMOVNA\nmodel: COBALT\nnavbat/очередь: 184`)
+    }
+
+    if (text === '1-120-2023-99825US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99825US\nIsmi/Имя: XUJABEKOV RASULXON JURAYEVICH\nmodel: COBALT\nnavbat/очередь: 7358`)
+    }
+
+    if (text === '1-120-2023-99791US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99791US\nIsmi/Имя: MIRBABAYEV NURIDDINJON MIRZAYEVICH\nmodel: COBALT\nnavbat/очередь: 5994`)
+    }
+
+    if (text === '1-120-2023-99780US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99780US\nIsmi/Имя: MIRFAYZULLAYEV ASADBEK USUBJON O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 5232`)
+    }
+
+    if (text === '1-120-2023-99786US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99786US\nIsmi/Имя: YIGITALIYEV BOBURJON ABDUSALOM O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 5657`)
+    }
+
+    if (text === '1-120-2023-99823US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99823US\nIsmi/Имя: SHUKUROV XAFIZULLO MIRFATILLO O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 7304`)
+    }
+
+    if (text === '1-120-2023-99871US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99871US\nIsmi/Имя: NISHONOV ULUG‘BEK ROXMONJON O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 22`)
+    }
+
+    if (text === '1-120-2023-99832US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99832US\nIsmi/Имя: MAXSADOVA MUYASSAR XAYRULLAYEVNA\nmodel: COBALT\nnavbat/очередь: 7796`)
+    }
+
+    if (text === '1-120-2023-99851US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99851US\nIsmi/Имя: MUMINJANOV BILOLXON ULUG‘BEK O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 8561`)
+    }
+
+    if (text === '1-120-2023-68218US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-68218US\nIsmi/Имя: YAX’YAYEV BOTIRXON ISMOILXONOVICH\nmodel: COBALT\nnavbat/очередь: 10754`)
+    }
+
+    if (text === '1-120-2023-99828US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99828US\nIsmi/Имя: XODJAYEVA RAXIMAXON RUSTAMOVNA\nmodel: COBALT\nnavbat/очередь: 7577`)
+    }
+
+    if (text === '1-120-2023-99790US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99790US\nIsmi/Имя: VALIJONOV ILHOMJON XOLMATJON O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 5934`)
+    }
+
+    if (text === '1-120-2023-99858US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99858US\nIsmi/Имя: XOJIYEV RUSTAM UBAYDULLAYEVICH\nmodel: COBALT\nnavbat/очередь: 8764`)
+    }
+
+    if (text === '1-120-2023-99794US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99794US\nIsmi/Имя: SULTONOVA MUKADDAS NUMANOVNA\nmodel: COBALT\nnavbat/очередь: 6125`)
+    }
+
+    if (text === '1-120-2023-99818US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99818US\nIsmi/Имя: MIRGULSHANOV AMONJON XXX\nmodel: COBALT\nnavbat/очередь: 7141`)
+    }
+
+    if (text === '1-120-2023-99819US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99819US\nIsmi/Имя: NISHONOV RAXMONJON QO‘CHQOROVICH\nmodel: COBALT\nnavbat/очередь: 7148`)
+    }
+
+    if (text === '1-120-2023-99798US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99798US\nIsmi/Имя: XASANOV AXROR YUSUBJONOVICH\nmodel: COBALT\nnavbat/очередь: 6543`)
+    }
+
+    if (text === '1-120-2023-99834US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99834US\nIsmi/Имя: ABDULLAYEVA MALOXAT VOXIDOVNA\nmodel: COBALT\nnavbat/очередь: 7842`)
+    }
+
+    if (text === '1-120-2023-99837US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99837US\nIsmi/Имя: BAXTIYOR KURBONOV KAMBARALIYEVICH\nmodel: COBALT\nnavbat/очередь: 8000`)
+    }
+
+    if (text === '1-120-2023-99811US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99811US\nIsmi/Имя: DOLIMOV FARXODJON IKROMJONOVICH\nmodel: COBALT\nnavbat/очередь: 7027`)
+    }
+
+    if (text === '1-120-2023-99817US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99817US\nIsmi/Имя: SAMIJONOVA LOLA NIZOMJON QIZI\nmodel: COBALT\nnavbat/очередь: 7140`)
+    }
+
+    if (text === '1-120-2023-86647US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-86647US\nIsmi/Имя: ABDURAXMONOV TURSUNALI XAKIMJON O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 12356`)
+    }
+
+    if (text === '1-120-2023-99492US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99492US\nIsmi/Имя: ABBOSOV AVAZBEK AXMADJON O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 9570`)
+    }
+
+    if (text === '1-120-2023-99773US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99773US\nIsmi/Имя: ASQAROV SHUHRATJON SOBIRJONOVICH\nmodel: COBALT\nnavbat/очередь: 91`)
+    }
+
+    if (text === '1-120-2023-99812US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99812US\nIsmi/Имя: MAKSUDOV SHERALI SHIRIFJONOVICH\nmodel: COBALT\nnavbat/очередь: 7035`)
+    }
+
+    if (text === '1-120-2023-83122US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-83122US\nIsmi/Имя: ABDURAXMONOV KOZIMJON KOMILJON O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 24003`)
+    }
+
+    if (text === '1-120-2023-60375US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-60375US\nIsmi/Имя: ISMATULLAYEV ABDUSALOM OTAJONOVICH\nmodel: COBALT\nnavbat/очередь: 13063`)
+    }
+
+    if (text === '1-120-2023-92196US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-92196US\nIsmi/Имя: RUSTAM AXMEDOV AYIBOVICH\nmodel: COBALT\nnavbat/очередь: 10720`)
+    }
+
+    if (text === '1-120-2023-65405US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-65405US\nIsmi/Имя: NIGMATOV MURODJON RAXMON O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 13436`)
+    }
+
+    if (text === '1-120-2023-64115US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-64115US\nIsmi/Имя: Тожибаев Шавкат Гофиржонович\nmodel: COBALT\nnavbat/очередь: 10930`)
+    }
+
+    if (text === '1-120-2023-89501US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-89501US\nIsmi/Имя: MIRZALIYEVA XOSIYAT SALOXITDINOVNA\nmodel: COBALT\nnavbat/очередь: 13670`)
+    }
+
+    if (text === '1-120-2023-99816US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99816US\nIsmi/Имя: MAMATOV NODIRBEK XUSANBOYEVICH\nmodel: COBALT\nnavbat/очередь: 7134`)
+    }
+
+    if (text === '1-120-2023-73410US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-73410US\nIsmi/Имя: ZAKIROV ELYOR DONIYOR OGLI\nmodel: COBALT\nnavbat/очередь: 14164`)
+    }
+
+    if (text === '1-120-2023-99847US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99847US\nIsmi/Имя: RAXIMOV KOMILJON AYUBOVICH\nmodel: COBALT\nnavbat/очередь: 8317`)
+    }
+
+    if (text === '1-120-2023-99820US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99820US\nIsmi/Имя: KARIMOV ANVARBEK ABDULLAYEVICH\nmodel: COBALT\nnavbat/очередь: 7163`)
+    }
+
+    if (text === '1-120-2023-99839US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99839US\nIsmi/Имя: ASATOV AZIZ YUSUPJONOVICH\nmodel: DAMAS-2\nnavbat/очередь: 9393`)
+    }
+
+    if (text === '1-120-2023-97238US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-97238US\nIsmi/Имя: RAXMONBERDIYEV TURSINBOY SOXATALIYEVICH\nmodel: COBALT\nnavbat/очередь: 9420`)
+    }
+
+    if (text === '1-120-2023-99822US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99822US\nIsmi/Имя: OLIMOV BEGZOD GULOM O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 7279`)
+    }
+
+    if (text === '1-120-2023-99861US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99861US\nIsmi/Имя: HALIMJONOV SANJAR DILSHOD O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 8856`)
+    }
+
+    if (text === '1-120-2023-99846US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99846US\nIsmi/Имя: KAXOROV ABDUMALIK BAXTIYOROVICH\nmodel: COBALT\nnavbat/очередь: 8286`)
+    }
+
+    if (text === '1-120-2023-99775US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-99775US\nIsmi/Имя: NE’MATJONOV ISKANDAR NO‘’MONJON O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 102`)
+    }
+
+    if (text === '1-120-2023-03040US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-03040US\nIsmi/Имя: YULCHIYEV NODIR SHUKURJONOVICH\nmodel: TRACKER-2\nnavbat/очередь: 137`)
+    }
+
+    if (text === '1-120-2023-02849US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02849US\nIsmi/Имя: XAMRAYEVA SOXIBA TO‘XTASINOVNA\nmodel: TRACKER-2\nnavbat/очередь: 214`)
+    }
+
+    if (text === '1-120-2023-02822US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02822US\nIsmi/Имя: Имамов Хуршид Ганижонович\nmodel: TRACKER-2\nnavbat/очередь: 782`)
+    }
+
+    if (text === '1-120-2023-02805US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02805US\nIsmi/Имя: MANNONOV BAXRIDDIN SHARIFJONOVICH\nmodel: TRACKER-2\nnavbat/очередь: 766`)
+    }
+
+    if (text === '1-120-2023-02789US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02789US\nIsmi/Имя: JO‘RALIYEVA MAXSUDA TURSUNALIYEVNA\nmodel: TRACKER-2\nnavbat/очередь: 779`)
+    }
+
+    if (text === '1-120-2023-02790US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02790US\nIsmi/Имя: DEHQONOV AKRAM SULTONOVICH\nmodel: TRACKER-2\nnavbat/очередь: 780`)
+    }
+
+    if (text === '1-120-2023-02735US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02735US\nIsmi/Имя: IRGASHEV YAKUBJON MANSUROVICH\nmodel: TRACKER-2\nnavbat/очередь: 127`)
+    }
+
+    if (text === '1-120-2023-02669US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02669US\nIsmi/Имя: BOKIBAYEV BOXODIR ABDUMAJIDOVICH\nmodel: DAMAS-2\nnavbat/очередь: 284`)
+    }
+
+    if (text === '1-120-2023-02615US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02615US\nIsmi/Имя: ISAMIDDINOV AVAZBEK MUXRIDDIN O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 9189`)
+    }
+
+    if (text === '1-120-2023-02536US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02536US\nIsmi/Имя: TOXIROV DOVUDXON KAMOLXON O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 3437`)
+    }
+
+    if (text === '1-120-2023-02488US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02488US\nIsmi/Имя: Urinova E’tibor Raximjanovna\nmodel: DAMAS-2\nnavbat/очередь: 929`)
+    }
+
+    if (text === '1-120-2023-02552US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02552US\nIsmi/Имя: XALIMOV SHUXRAT MIRALIMOVICH\nmodel: DAMAS-2\nnavbat/очередь: 4607`)
+    }
+
+    if (text === '1-120-2023-02574US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02574US\nIsmi/Имя: SALOXIDDINOV OLIM ODILJONOVICH\nmodel: DAMAS-2\nnavbat/очередь: 6395`)
+    }
+
+    if (text === '1-120-2023-02581US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02581US\nIsmi/Имя: NUGMANOVA NAZIRA KARIMDJANOVNA\nmodel: DAMAS-2\nnavbat/очередь: 7293`)
+    }
+
+    if (text === '1-120-2023-02498US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02498US\nIsmi/Имя: ABDUPATTAYEV ILHOMJON ABDURAHIM O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 1393`)
+    }
+
+    if (text === '1-120-2023-02509US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02509US\nIsmi/Имя: ABDUKAYUMOVA ZARIFA SOTIVOLDIYEVNA\nmodel: DAMAS-2\nnavbat/очередь: 2037`)
+    }
+
+    if (text === '1-120-2023-02462US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02462US\nIsmi/Имя: ALIMOVA MARUFAT ALIYEVNA\nmodel: DAMAS-2\nnavbat/очередь: 396`)
+    }
+
+    if (text === '1-120-2023-02507US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02507US\nIsmi/Имя: KARIMOV ABDULBOSIT ABDULLAYEVICH\nmodel: DAMAS-2\nnavbat/очередь: 1945`)
+    }
+
+    if (text === '1-120-2023-02525US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02525US\nIsmi/Имя: ERNAZAROVA MUKADDAS XASANOVNA\nmodel: DAMAS-2\nnavbat/очередь: 3011`)
+    }
+
+    if (text === '1-120-2023-02527US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02527US\nIsmi/Имя: SHERALIYEV SHERAZIZ ALISHER OGLI\nmodel: DAMAS-2\nnavbat/очередь: 3045`)
+    }
+
+    if (text === '1-120-2023-02597US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02597US\nIsmi/Имя: MADRAXIMOV MOXIRJON MUXIRIDINOVICH\nmodel: DAMAS-2\nnavbat/очередь: 7814`)
+    }
+
+    if (text === '1-120-2023-02576US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02576US\nIsmi/Имя: IBRAGIMOV G‘ULOMJON AXMEDOVICH\nmodel: DAMAS-2\nnavbat/очередь: 6657`)
+    }
+
+    if (text === '1-120-2023-02530US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02530US\nIsmi/Имя: YUSUPOVA SANOBAR YO'LDOSHEVNA\nmodel: DAMAS-2\nnavbat/очередь: 3168`)
+    }
+
+    if (text === '1-120-2023-02508US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02508US\nIsmi/Имя: NURIDDINOV DONIYOR BAHROM O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 2009`)
+    }
+
+    if (text === '1-120-2023-02538US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02538US\nIsmi/Имя: ALAXODJAYEV ASKAR KUCHKARXODJAYEVICH\nmodel: DAMAS-2\nnavbat/очередь: 3528`)
+    }
+
+    if (text === '1-120-2023-02540US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02540US\nIsmi/Имя: NABIYEVA NAIMA MAXMUDOVNA\nmodel: DAMAS-2\nnavbat/очередь: 3678`)
+    }
+
+    if (text === '1-120-2023-02570US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02570US\nIsmi/Имя: ABDUMADJITOVA UMIDA MAXAMMADALIYEVNA\nmodel: DAMAS-2\nnavbat/очередь: 6110`)
+    }
+
+    if (text === '1-120-2023-02494US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02494US\nIsmi/Имя: Ismoilov Ilyosxon Tohirjon O‘G‘Li\nmodel: DAMAS-2\nnavbat/очередь: 1160`)
+    }
+
+    if (text === '1-120-2023-02580US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02580US\nIsmi/Имя: MUSABOYEVA INOBAT ABDULLAYEVNA\nmodel: DAMAS-2\nnavbat/очередь: 7272`)
+    }
+
+    if (text === '1-120-2023-02606US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02606US\nIsmi/Имя: RUSTAMJON QURBANOV QAMBARALIYEVICH\nmodel: DAMAS-2\nnavbat/очередь: 8231`)
+    }
+
+    if (text === '1-120-2023-02541US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02541US\nIsmi/Имя: ABDURAXMANOV AVAZBEK ABDURASHIDOVICH\nmodel: DAMAS-2\nnavbat/очередь: 3685`)
+    }
+
+    if (text === '1-120-2023-02556US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02556US\nIsmi/Имя: XURMATOV AXROR AKMAL O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 4956`)
+    }
+
+    if (text === '1-120-2023-02611US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02611US\nIsmi/Имя: Тухтаев Умиджон Рустамжон угли\nmodel: DAMAS-2\nnavbat/очередь: 8788`)
+    }
+
+    if (text === '1-120-2023-02582US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02582US\nIsmi/Имя: JURAYEV ABDULLO MAXMUD O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 7352`)
+    }
+
+    if (text === '1-120-2023-02544US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02544US\nIsmi/Имя: Axmedova Shaxnoza Anvarovna\nmodel: DAMAS-2\nnavbat/очередь: 4000`)
+    }
+
+    if (text === '1-120-2023-02593US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02593US\nIsmi/Имя: MADRAXIMOVA MUAZZAM KADIROVNA\nmodel: DAMAS-2\nnavbat/очередь: 7734`)
+    }
+
+    if (text === '1-120-2023-02595US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02595US\nIsmi/Имя: MADRAXIMOV MOXIRJON MUXIRIDINOVICH\nmodel: DAMAS-2\nnavbat/очередь: 7775`)
+    }
+
+    if (text === '1-120-2023-02493US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02493US\nIsmi/Имя: JO‘RAYEV AZIMJON ABDUXOLIQ O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 1156`)
+    }
+
+    if (text === '1-120-2023-02596US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02596US\nIsmi/Имя: MAXMUDOV JOBIR ANVAROVICH\nmodel: DAMAS-2\nnavbat/очередь: 7794`)
+    }
+
+    if (text === '1-120-2023-02616US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02616US\nIsmi/Имя: RIZZAYEV ISMANALI SIRAJIDINOVICH\nmodel: DAMAS-2\nnavbat/очередь: 9194`)
+    }
+
+    if (text === '1-120-2023-02496US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02496US\nIsmi/Имя: MAMATKULOV BOBURMIRZO GIYOSITDIN O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 1300`)
+    }
+
+    if (text === '1-120-2023-02561US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02561US\nIsmi/Имя: KARIMOV MURODJON MUYDIN UGLI\nmodel: DAMAS-2\nnavbat/очередь: 5305`)
+    }
+
+    if (text === '1-120-2023-02516US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02516US\nIsmi/Имя: MAMADALIYEV BATIR KARAXANOVICH\nmodel: DAMAS-2\nnavbat/очередь: 2495`)
+    }
+
+    if (text === '1-120-2023-02531US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02531US\nIsmi/Имя: XAMROBAYEV ZUXRIDDIN NURITDINOVICH\nmodel: DAMAS-2\nnavbat/очередь: 3198`)
+    }
+
+    if (text === '1-120-2023-02504US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02504US\nIsmi/Имя: TURDALIYEV TURDALI NURILLA O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 1866`)
+    }
+
+    if (text === '1-120-2023-02594US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02594US\nIsmi/Имя: QAYUMOV ERKIN TOXIROVICH\nmodel: DAMAS-2\nnavbat/очередь: 7767`)
+    }
+
+    if (text === '1-120-2023-02608US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02608US\nIsmi/Имя: QURBANOVA DILNOZA ABDUGOPPOR QIZI\nmodel: DAMAS-2\nnavbat/очередь: 8274`)
+    }
+
+    if (text === '1-120-2023-02564US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02564US\nIsmi/Имя: TURSUNOV SHAVVOZBEK DILSHOD O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 5691`)
+    }
+
+    if (text === '1-120-2023-02491US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02491US\nIsmi/Имя: UBAYDULLAYEV MUBASHER MUXTOR O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 1076`)
+    }
+
+    if (text === '1-120-2023-02523US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02523US\nIsmi/Имя: SHARIPOV AXROR ANVAROVICH\nmodel: DAMAS-2\nnavbat/очередь: 2874`)
+    }
+
+    if (text === '1-120-2023-02532US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02532US\nIsmi/Имя: SAYDULLAYEV MIRABBOS KAMOLJONOVICH\nmodel: DAMAS-2\nnavbat/очередь: 3264`)
+    }
+
+    if (text === '1-120-2023-02585US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02585US\nIsmi/Имя: Махмудов Бахриддин Рахматулло угли\nmodel: DAMAS-2\nnavbat/очередь: 7481`)
+    }
+
+    if (text === '1-120-2023-02601US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02601US\nIsmi/Имя: NIGMATOV MURODJON RAXMON O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 7931`)
+    }
+
+    if (text === '1-120-2023-02610US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02610US\nIsmi/Имя: SAMIJONOVA LOLA NIZOMJON QIZI\nmodel: DAMAS-2\nnavbat/очередь: 8509`)
+    }
+
+    if (text === '1-120-2023-02578US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02578US\nIsmi/Имя: QUCHQAROV FARRUX BAXODIR OGLI\nmodel: DAMAS-2\nnavbat/очередь: 7195`)
+    }
+
+    if (text === '1-120-2023-02511US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02511US\nIsmi/Имя: NASIROV MUSOXON MUXAMMADOVICH\nmodel: DAMAS-2\nnavbat/очередь: 2154`)
+    }
+
+    if (text === '1-120-2023-02546US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02546US\nIsmi/Имя: ERNAZAROV ODILJON XASANBAYEVICH\nmodel: DAMAS-2\nnavbat/очередь: 4068`)
+    }
+
+    if (text === '1-120-2023-02548US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02548US\nIsmi/Имя: BAZAROV NODIRBEK VALIJANOVICH\nmodel: DAMAS-2\nnavbat/очередь: 4333`)
+    }
+
+    if (text === '1-120-2023-02562US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02562US\nIsmi/Имя: MUXAMMADJONOV MIRMUXSIN MUXAMMADJON O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 5402`)
+    }
+
+    if (text === '1-120-2023-02599US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02599US\nIsmi/Имя: BAYXANOV MUXAMMADSODIQ RASHID O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 7871`)
+    }
+
+    if (text === '1-120-2023-02517US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02517US\nIsmi/Имя: GANIYEVA MUNIRA SHAMSIDINOVNA\nmodel: DAMAS-2\nnavbat/очередь: 2507`)
+    }
+
+    if (text === '1-120-2023-02554US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02554US\nIsmi/Имя: MIRABIDINOV SHEROZ NAVOYI O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 4828`)
+    }
+
+    if (text === '1-120-2023-02558US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02558US\nIsmi/Имя: XURMATOV AXROR AKMAL O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 5031`)
+    }
+
+    if (text === '1-120-2023-02605US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02605US\nIsmi/Имя: Курбанов Абдумитал Мамадалиевич\nmodel: DAMAS-2\nnavbat/очередь: 8180`)
+    }
+
+    if (text === '1-120-2023-02547US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02547US\nIsmi/Имя: KOZAKOV ASQARALI TURGUNBAYEVICH\nmodel: DAMAS-2\nnavbat/очередь: 4290`)
+    }
+
+    if (text === '1-120-2023-02579US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02579US\nIsmi/Имя: RASHIDXONOV MUXAMMADSAID MUSOXON O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 7243`)
+    }
+
+    if (text === '1-120-2023-02539US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02539US\nIsmi/Имя: KUCHKAROV MASHXURBEK MAMURJONOVICH\nmodel: DAMAS-2\nnavbat/очередь: 3536`)
+    }
+
+    if (text === '1-120-2023-02607US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02607US\nIsmi/Имя: Nuritdinov Kutpiddin Sadriddinovich\nmodel: DAMAS-2\nnavbat/очередь: 8244`)
+    }
+
+    if (text === '1-120-2023-02520US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02520US\nIsmi/Имя: XOLMATOV RAVSHAN AZIZJON O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 2678`)
+    }
+
+    if (text === '1-120-2023-02573US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02573US\nIsmi/Имя: SHAYAKUBOVA DILOROMJON SHARIFJONOVNA\nmodel: DAMAS-2\nnavbat/очередь: 6272`)
+    }
+
+    if (text === '1-120-2023-02589US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02589US\nIsmi/Имя: HAMDAMOV DILSHOD JABBROVICH\nmodel: DAMAS-2\nnavbat/очередь: 7632`)
+    }
+
+    if (text === '1-120-2023-02617US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02617US\nIsmi/Имя: TURGUNOV BAXTIYOR NURITDDINOVICH\nmodel: DAMAS-2\nnavbat/очередь: 9214`)
+    }
+
+    if (text === '1-120-2023-02571US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02571US\nIsmi/Имя: MADALIYEV SHAFIJON DJURAYEVICH\nmodel: DAMAS-2\nnavbat/очередь: 6168`)
+    }
+
+    if (text === '1-120-2023-02484US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02484US\nIsmi/Имя: QO'CHQAROV RAXMONALI ISMOILOVICH\nmodel: DAMAS-2\nnavbat/очередь: 812`)
+    }
+
+    if (text === '1-120-2023-02465US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02465US\nIsmi/Имя: RAXMANOV ODILJON XUDAYBERDIYEVICH\nmodel: DAMAS-2\nnavbat/очередь: 428`)
+    }
+
+    if (text === '1-120-2023-02567US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02567US\nIsmi/Имя: USMANOV DAVRONBEK ABDIRAZZAKOVICH\nmodel: DAMAS-2\nnavbat/очередь: 5956`)
+    }
+
+    if (text === '1-120-2023-02510US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02510US\nIsmi/Имя: MAKSIMOVA ODINAXON KAMBAROVNA\nmodel: DAMAS-2\nnavbat/очередь: 2091`)
+    }
+
+    if (text === '1-120-2023-02501US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02501US\nIsmi/Имя: XAITOV KOZIMBEK ABDUSATTAROVICH\nmodel: DAMAS-2\nnavbat/очередь: 1690`)
+    }
+
+    if (text === '1-120-2023-02529US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02529US\nIsmi/Имя: SADIKOV RASUL SALIXANOVICH\nmodel: DAMAS-2\nnavbat/очередь: 3109`)
+    }
+
+    if (text === '1-120-2023-02588US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02588US\nIsmi/Имя: NOSIRALIYEV BAXTIYOR KARIMJONOVICH\nmodel: DAMAS-2\nnavbat/очередь: 7609`)
+    }
+    
+    if (text === '1-120-2023-02382US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02382US\nIsmi/Имя: AXMEDOV MUZAFFAR VAXOBOVICH\nmodel: COBALT\nnavbat/очередь: 1966`)
+    }
+
+    if (text === '1-120-2023-02353US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02353US\nIsmi/Имя: HAKIMOV BAXRIDDIN NOSIRJON O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 705`)
+    }
+
+    if (text === '1-120-2023-02377US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02377US\nIsmi/Имя: ERGASHBOYEVA MUAZZAMXON ABDULXAKIM QIZI\nmodel: COBALT\nnavbat/очередь: 1737`)
+    }
+
+    if (text === '1-120-2023-02515US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02515US\nIsmi/Имя: SHARIPOV AXROR ANVAROVICH\nmodel: DAMAS-2\nnavbat/очередь: 2441`)
+    }
+
+    if (text === '1-120-2023-02542US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02542US\nIsmi/Имя: KARIMOVA SITORA AKMALJON QIZI\nmodel: DAMAS-2\nnavbat/очередь: 3814`)
+    }
+
+    if (text === '1-120-2023-02519US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02519US\nIsmi/Имя: MILIYEV AZIMJON SAYDULLAYEVICH\nmodel: DAMAS-2\nnavbat/очередь: 2574`)
+    }
+
+    if (text === '1-120-2023-02503US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02503US\nIsmi/Имя: TURDALIYEV TURDALI NURILLA O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 1778`)
+    }
+
+    if (text === '1-120-2023-02506US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02506US\nIsmi/Имя: MAXKAMOV UMIDJON ALISHER OGLI\nmodel: DAMAS-2\nnavbat/очередь: 1888`)
+    }
+
+    if (text === '1-120-2023-02545US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02545US\nIsmi/Имя: KARIMOVA SITORA AKMALJON QIZI\nmodel: DAMAS-2\nnavbat/очередь: 4048`)
+    }
+
+    if (text === '1-120-2023-02375US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02375US\nIsmi/Имя: Mamadaliyev Abdulhakim Raxmadjanovich\nmodel: COBALT\nnavbat/очередь: 1572`)
+    }
+    
+    if (text === '1-120-2023-02533US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02533US\nIsmi/Имя: ATAXANOVA GULCHEXRA KAMILOVNA\nmodel: DAMAS-2\nnavbat/очередь: 3317`)
+    }
+
+    if (text === '1-120-2023-02575US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02575US\nIsmi/Имя: PARPIYEV MUXIDDIN XUSNIDIN O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 6538`)
+    }
+
+    if (text === '1-120-2023-02505US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02505US\nIsmi/Имя: NOSIRJONOVA MOHLAROYIM XAMIDULLO QIZI\nmodel: DAMAS-2\nnavbat/очередь: 1884`)
+    }
+
+    if (text === '1-120-2023-02586US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02586US\nIsmi/Имя: XUDOYBERDIEV DONIYORBEK ABDURAXIM OGLI\nmodel: DAMAS-2\nnavbat/очередь: 7514`)
+    }
+
+    if (text === '1-120-2023-02522US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02522US\nIsmi/Имя: JURAYEV DILMUROD VAXABOVICH\nmodel: DAMAS-2\nnavbat/очередь: 2872`)
+    }
+
+    if (text === '1-120-2023-02598US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02598US\nIsmi/Имя: RAXMATULLAYEV AZIZBEK AKRAMOVICH\nmodel: DAMAS-2\nnavbat/очередь: 7849`)
+    }
+
+    if (text === '1-120-2023-02399US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02399US\nIsmi/Имя: AKRAMOV AVAZXON ANVARJONOVICH\nmodel: COBALT\nnavbat/очередь: 3152`)
+    }
+
+    if (text === '1-120-2023-02489US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02489US\nIsmi/Имя: XAMRABAYEV ILXOM NURITDINOVICH\nmodel: DAMAS-2\nnavbat/очередь: 948`)
+    }
+
+    if (text === '1-120-2023-02600US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02600US\nIsmi/Имя: BOYXANOV MUXAMMADROSUL RASHID O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 7901`)
+    }
+
+    if (text === '1-120-2023-02604US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02604US\nIsmi/Имя: NIGMATOV SHERZOD RAXMANOVICH\nmodel: DAMAS-2\nnavbat/очередь: 8059`)
+    }
+
+    if (text === '1-120-2023-02521US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02521US\nIsmi/Имя: SHERALIYEV SARDORBEK SANJARBEK O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 2788`)
+    }
+
+    if (text === '1-120-2023-02572US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02572US\nIsmi/Имя: Muydinova Gulxayo Maxmudjon qizi\nmodel: DAMAS-2\nnavbat/очередь: 6269`)
+    }
+    
+    if (text === '1-120-2023-02370US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02370US\nIsmi/Имя: XOLMATOV JOBIR UMAROVICH\nmodel: COBALT\nnavbat/очередь: 1292`)
+    }
+
+    if (text === '1-120-2023-02603US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02603US\nIsmi/Имя: UMARXANOV ANVAR TULANDJANOVICH\nmodel: DAMAS-2\nnavbat/очередь: 7978`)
+    }
+
+    if (text === '1-120-2023-02557US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02557US\nIsmi/Имя: XOMIDOV ABRORJON AKMALJON O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 4994`)
+    }
+
+    if (text === '1-120-2023-02388US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02388US\nIsmi/Имя: SHARAFUDDINOV DILSHOD AXATOVICH\nmodel: COBALT\nnavbat/очередь: 2495`)
+    }
+
+    if (text === '1-120-2023-02551US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02551US\nIsmi/Имя: TURGUNBOYEV MUXTORALI ASQARALI OGLI\nmodel: DAMAS-2\nnavbat/очередь: 4545`)
+    }
+
+    if (text === '1-120-2023-02514US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02514US\nIsmi/Имя: ASHUROVA MUKADDAS DJALILOVNA\nmodel: DAMAS-2\nnavbat/очередь: 2294`)
+    }
+
+    if (text === '1-120-2023-02565US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02565US\nIsmi/Имя: AXMEDOV BAXTIYOR MARUFOVICH\nmodel: DAMAS-2\nnavbat/очередь: 5795`)
+    }
+
+    if (text === '1-120-2023-02499US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02499US\nIsmi/Имя: MAMATISOQOV YIGITALI ERGASHEVICH\nmodel: DAMAS-2\nnavbat/очередь: 1443`)
+    }
+
+    if (text === '1-120-2023-02476US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02476US\nIsmi/Имя: ISABAYEVA NIGORA ALIMOVNA\nmodel: DAMAS-2\nnavbat/очередь: 643`)
+    }
+
+    if (text === '1-120-2023-02590US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02590US\nIsmi/Имя: ISABOYEVA ZULXUMOR TOJIBOYEVNA\nmodel: DAMAS-2\nnavbat/очередь: 7661`)
+    }
+
+    if (text === '1-120-2023-02591US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02591US\nIsmi/Имя: MADRAXIMOVA MUAZZAM KADIROVNA\nmodel: DAMAS-2\nnavbat/очередь: 7701`)
+    }
+
+    if (text === '1-120-2023-02500US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02500US\nIsmi/Имя: TURG‘UNOV ABRORBEK IKROMJON O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 1545`)
+    }
+
+    if (text === '1-120-2023-02592US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02592US\nIsmi/Имя: AZAMOV ABDULBORI PATILAXONOVICH\nmodel: DAMAS-2\nnavbat/очередь: 7724`)
+    }
+
+    if (text === '1-120-2023-02577US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02577US\nIsmi/Имя: RUSTAMJON QURBANOV QAMBARALIYEVICH\nmodel: DAMAS-2\nnavbat/очередь: 833`)
+    }
+
+    if (text === '1-120-2023-02543US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02543US\nIsmi/Имя: JURAYEV AZIZJON GAFURJON-O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 3933`)
+    }
+
+    if (text === '1-120-2023-02374US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02374US\nIsmi/Имя: RAXIMOV ANVARJON IBRAGIMOVICH\nmodel: COBALT\nnavbat/очередь: 1560`)
+    }
+
+    if (text === '1-120-2023-02408US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02408US\nIsmi/Имя: XAITBAYEVA DILDORA ORIFOVNA\nmodel: COBALT\nnavbat/очередь: 3685`)
+    }
+
+    if (text === '1-120-2023-02490US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02490US\nIsmi/Имя: MALLABOYEV MAHMUDJON TURSUNOVICH\nmodel: DAMAS-2\nnavbat/очередь: 993`)
+    }
+
+    if (text === '1-120-2023-02550US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02550US\nIsmi/Имя: YUNUSOV NABIDJON SABIROVICH\nmodel: DAMAS-2\nnavbat/очередь: 4529`)
+    }
+
+    if (text === '1-120-2023-02559US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02559US\nIsmi/Имя: QOBILOV RAVSHAN MAXMUDJONOVICH\nmodel: DAMAS-2\nnavbat/очередь: 5125`)
+    }
+
+    if (text === '1-120-2023-02406US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02406US\nIsmi/Имя: Юлдашев Мухаммад Бакибаевич\nmodel: COBALT\nnavbat/очередь: 3580`)
+    }
+
+    if (text === '1-120-2023-02407US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02407US\nIsmi/Имя: RAXMANOV ABDULBOSIT UBAYDULLO OGLI\nmodel: COBALT\nnavbat/очередь: 3649`)
+    }
+    
+    if (text === '1-120-2023-02512US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02512US\nIsmi/Имя: DJAMINOV BAXROMJON BOXODIROVICH\nmodel: DAMAS-2\nnavbat/очередь: 2267`)
+    }
+
+    if (text === '1-120-2023-02481US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02481US\nIsmi/Имя: DOLIYEVA MADINA GIYASIDDINOVNA\nmodel: DAMAS-2\nnavbat/очередь: 743`)
+    }
+
+    if (text === '1-120-2023-02513US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02513US\nIsmi/Имя: ABDUMALIKOVA OYDINAXON ABDULAZIZ QIZI\nmodel: DAMAS-2\nnavbat/очередь: 2277`)
+    }
+
+    if (text === '1-120-2023-02495US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02495US\nIsmi/Имя: TULQUNBOYEV DILMUROD UTKUR O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 1266`)
+    }
+
+    if (text === '1-120-2023-02602US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02602US\nIsmi/Имя: UMARXANOV ANVAR TULANDJANOVICH\nmodel: DAMAS-2\nnavbat/очередь: 7955`)
+    }
+
+    if (text === '1-120-2023-02568US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02568US\nIsmi/Имя: AKBARALIYEV AKRAMJON AZAM OGLI\nmodel: DAMAS-2\nnavbat/очередь: 6018`)
+    }
+
+    if (text === '1-120-2023-02553US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02553US\nIsmi/Имя: ALIJONOV ZOKIRJON VOXIDJON O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 4732`)
+    }
+
+    if (text === '1-120-2023-02614US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02614US\nIsmi/Имя: RAXMANOV DILMUROD BAXROMJONOVICH\nmodel: DAMAS-2\nnavbat/очередь: 9181`)
+    }
+
+    if (text === '1-120-2023-02612US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02612US\nIsmi/Имя: Курбанов Абдумитал Мамадалиевич\nmodel: DAMAS-2\nnavbat/очередь: 9038`)
+    }
+
+    if (text === '1-120-2023-02583US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02583US\nIsmi/Имя: XAKIMJANOV A’ZAMJON QOBIL O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 7390`)
+    }
+
+    if (text === '1-120-2023-02518US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02518US\nIsmi/Имя: AXMEDOV NOSIR SOBIRDJANOVICH\nmodel: DAMAS-2\nnavbat/очередь: 2570`)
+    }
+
+    if (text === '1-120-2023-02534US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02534US\nIsmi/Имя: KAMOLJONOV MIRSAYDULLO MIRABBOS O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 3347`)
+    }
+
+    if (text === '1-120-2023-02528US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02528US\nIsmi/Имя: MULLAJONOVA DILFUZA MARIVJONOVNA\nmodel: DAMAS-2\nnavbat/очередь: 3084`)
+    }
+
+    if (text === '1-120-2023-02216US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02216US\nIsmi/Имя: XOMIDOVA MASHXURA IBRAGIMOVNA\nmodel: COBALT\nnavbat/очередь: 340`)
+    }
+
+    if (text === '1-120-2023-02275US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02275US\nIsmi/Имя: LUTFULLAYEV MUHIDDIN MUXIBILLAYEVICH\nmodel: COBALT\nnavbat/очередь: 1932`)
+    }
+
+    if (text === '1-120-2023-02233US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02233US\nIsmi/Имя: ABDUNABIYEV ABDURAXMON ABDURAIMOVICH\nmodel: COBALT\nnavbat/очередь: 763`)
+    }
+
+    if (text === '1-120-2023-02255US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02255US\nIsmi/Имя: SOLIEV QODIRJON KARIM O'G'LI\nmodel: COBALT\nnavbat/очередь: 1362`)
+    }
+
+    if (text === '1-120-2023-02241US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02241US\nIsmi/Имя: DOLIMBAEVA SHOKHISTA AXADXANOVNA\nmodel: COBALT\nnavbat/очередь: 982`)
+    }
+
+    if (text === '1-120-2023-02218US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02218US\nIsmi/Имя: ABDISALOYEV ABDIRAXMON ABDIXOLIKOVICH\nmodel: COBALT\nnavbat/очередь: 386`)
+    }
+
+    if (text === '1-120-2023-02253US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02253US\nIsmi/Имя: SADIKOVA RISKINISSO BALTAYEVNA\nmodel: COBALT\nnavbat/очередь: 1333`)
+    }
+
+    if (text === '3-120-2023-02250US'){
+        return bot.sendMessage(chatId, `kod: 3-120-2023-02250US\nIsmi/Имя: "YANGI ASR" xususiy korxonasi\nmodel: COBALT\nnavbat/очередь: 1256`)
+    }
+
+    if (text === '1-120-2023-02244US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02244US\nIsmi/Имя: ABDIRASULOVA SHAMINISSO ABDIVALIYEVNA\nmodel: COBALT\nnavbat/очередь: 10`)
+    }
+    
+    if (text === '1-120-2023-02279US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02279US\nIsmi/Имя: ISMANOV BAXROM XAKIMOVICH\nmodel: COBALT\nnavbat/очередь: 2009`)
+    }
+
+    if (text === '1-120-2023-02231US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02231US\nIsmi/Имя: DJABBAROVA MARGUBA MALIKOVNA\nmodel: COBALT\nnavbat/очередь: 630`)
+    }
+
+    if (text === '1-120-2023-02209US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02209US\nIsmi/Имя: Бойдедаева Ойдина Рашид кизи\nmodel: COBALT\nnavbat/очередь: 201`)
+    }
+
+    if (text === '1-120-2023-02242US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02242US\nIsmi/Имя: YULDASHEVA MUXARAM SHUKUROVNA\nmodel: COBALT\nnavbat/очередь: 990`)
+    }
+
+    if (text === '1-120-2023-02286US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02286US\nIsmi/Имя: YULDASHEVA MUXARAM SHUKUROVNA\nmodel: COBALT\nnavbat/очередь: 2164`)
+    }
+
+    if (text === '1-120-2023-02384US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02384US\nIsmi/Имя: KODIROV BAXODIR OSIMOVICH\nmodel: COBALT\nnavbat/очередь: 2151`)
+    }
+
+    if (text === '1-120-2023-02397US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02397US\nIsmi/Имя: ABIDOV A’ZAM GULAMDJANOVICH\nmodel: COBALT\nnavbat/очередь: 3056`)
+    }
+
+    if (text === '1-120-2023-02386US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02386US\nIsmi/Имя: ISMAILOV ULUGBEK SADRIDINOVICH\nmodel: COBALT\nnavbat/очередь: 2408`)
+    }
+
+    if (text === '1-120-2023-02404US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02404US\nIsmi/Имя: UMAROV BAXODIR MUTALIBOVICH\nmodel: COBALT\nnavbat/очередь: 3486`)
+    }
+
+    if (text === '1-120-2023-02411US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02411US\nIsmi/Имя: SAPAYEV SATIMBEK KARIMBERGANOVICH\nmodel: COBALT\nnavbat/очередь: 3874`)
+    }
+
+    if (text === '1-120-2023-02391US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02391US\nIsmi/Имя: SAIBOV KAXORJON YULDASHEVICH\nmodel: COBALT\nnavbat/очередь: 2607`)
+    }
+
+    if (text === '1-120-2023-02412US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02412US\nIsmi/Имя: YUNUSOV ANVAR AKMALOVICH\nmodel: COBALT\nnavbat/очередь: 3897`)
+    }
+
+    if (text === '1-120-2023-02390US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02390US\nIsmi/Имя: SHAROFUDINOVA ZAMIRA ALIYEVNA\nmodel: COBALT\nnavbat/очередь: 2586`)
+    }
+
+    if (text === '1-120-2023-02378US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02378US\nIsmi/Имя: RAIMJANOVA MASTURA RAMONOVNA\nmodel: COBALT\nnavbat/очередь: 1786`)
+    }
+
+    if (text === '1-120-2023-02356US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02356US\nIsmi/Имя: XAKIMOV ABROR RUSTAMOVICH\nmodel: COBALT\nnavbat/очередь: 880`)
+    }
+
+    if (text === '1-120-2023-02347US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02347US\nIsmi/Имя: Umrzakov Raxmatilla Mamirjon o'g'li\nmodel: COBALT\nnavbat/очередь: 3581`)
+    }
+
+    if (text === '1-120-2023-02376US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02376US\nIsmi/Имя: RAXIMOV ABDULLAJON ABDURASHIDOVICH\nmodel: COBALT\nnavbat/очередь: 1615`)
+    }
+
+    if (text === '1-120-2023-02381US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02381US\nIsmi/Имя: SULTANOV NOSIR USMANJANOVICH\nmodel: COBALT\nnavbat/очередь: 1931`)
+    }
+
+    if (text === '1-120-2023-02475US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02475US\nIsmi/Имя: TURSUNOV DIL MUHAMMAD TURSUNMAHAMMAD O‘G‘LI\nmodel: DAMAS-2\nnavbat/очередь: 594`)
+    }
+
+    if (text === '1-120-2023-02486US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02486US\nIsmi/Имя: SHOMIRZAYEV XUSANBOY LATIFOVICH\nmodel: DAMAS-2\nnavbat/очередь: 902`)
+    }
+
+    if (text === '1-120-2023-02483US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02483US\nIsmi/Имя: XOLMIRZAYEV ADXAM MUXITDINOVICH\nmodel: DAMAS-2\nnavbat/очередь: 805`)
+    }
+
+    if (text === '1-120-2023-02485US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02485US\nIsmi/Имя: MAMADJANOV VOXID ZOKIRJANOVICH\nmodel: DAMAS-2\nnavbat/очередь: 820`)
+    }
+    
+    if (text === '1-120-2023-02321US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02321US\nIsmi/Имя: USMANOV DAVRONBEK ABDIRAZZAKOVICH\nmodel: COBALT\nnavbat/очередь: 2865`)
+    }
+
+    if (text === '1-120-2023-02492US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02492US\nIsmi/Имя: YULDASHEVA UMIDA SHUKURJONOVNA\nmodel: DAMAS-2\nnavbat/очередь: 1130`)
+    }
+
+    if (text === '1-120-2023-02502US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02502US\nIsmi/Имя: NOSIRJONOVA MOHLAROYIM XAMIDULLO QIZI\nmodel: DAMAS-2\nnavbat/очередь: 1739`)
+    }
+
+    if (text === '1-120-2023-02403US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02403US\nIsmi/Имя: XAITBAYEVA DILDORA ORIFOVNA\nmodel: COBALT\nnavbat/очередь: 3459`)
+    }
+
+    if (text === '1-120-2023-02393US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02393US\nIsmi/Имя: SUFIJANOV ODIL NEMATOVICH\nmodel: COBALT\nnavbat/очередь: 2813`)
+    }
+
+    if (text === '1-120-2023-02410US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02410US\nIsmi/Имя: XAITOV AKMALJON KOBILOVICH\nmodel: COBALT\nnavbat/очередь: 3824`)
+    }
+
+    if (text === '1-120-2023-02363US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02363US\nIsmi/Имя: SAIBOV KAXORJON YULDASHEVICH\nmodel: COBALT\nnavbat/очередь: 1017`)
+    }
+
+    if (text === '1-120-2023-02392US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02392US\nIsmi/Имя: ALIMOV BAXTIYOR YULCHIYEVICH\nmodel: COBALT\nnavbat/очередь: 2748`)
+    }
+
+    if (text === '1-120-2023-02398US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02398US\nIsmi/Имя: YAXYAYEV NUSRATULLOXON XIKMATILLOYEVICH\nmodel: COBALT\nnavbat/очередь: 3125`)
+    }
+
+    if (text === '1-120-2023-02330US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02330US\nIsmi/Имя: BABAYEV ZAFAR MANSUROVICH\nmodel: COBALT\nnavbat/очередь: 3122`)
+    }
+
+    if (text === '1-120-2023-02389US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02389US\nIsmi/Имя: TURSUNOV SHUKURULLO NURILLO O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 2569`)
+    }
+
+    if (text === '1-120-2023-02479US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02479US\nIsmi/Имя: ТУХТАБОЕВ МУРОДЖОН РУСТАМЖОНОВИЧ\nmodel: DAMAS-2\nnavbat/очередь: 707`)
+    }
+
+    if (text === '1-120-2023-02395US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02395US\nIsmi/Имя: XAKIMOV AZIZALI ODILOVICH\nmodel: COBALT\nnavbat/очередь: 2936`)
+    }
+
+    if (text === '1-120-2023-02333US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02333US\nIsmi/Имя: SAIDOV RASUL KARIMOVICH\nmodel: COBALT\nnavbat/очередь: 3151`)
+    }
+
+    if (text === '1-120-2023-02401US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02401US\nIsmi/Имя: UMIRZAKOV RASHID XOLMIRZAYEVICH\nmodel: COBALT\nnavbat/очередь: 3280`)
+    }
+
+    if (text === '1-120-2023-02405US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02405US\nIsmi/Имя: AXMEDOVA DILOROM ALIMOVNA\nmodel: COBALT\nnavbat/очередь: 3496`)
+    }
+
+    if (text === '1-120-2023-02311US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02311US\nIsmi/Имя: TILLABAYEVA MAXBUBA ABDUMALIKOVNA\nmodel: LACETTI\nnavbat/очередь: 123`)
+    }
+
+    if (text === '1-120-2023-02473US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02473US\nIsmi/Имя: KARABAYEVA MUXARRAM LATIFOVNA\nmodel: DAMAS-2\nnavbat/очередь: 581`)
+    }
+
+    if (text === '1-120-2023-02487US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02487US\nIsmi/Имя: DEDAXANOVA KARIMA SHERMATOVNA\nmodel: DAMAS-2\nnavbat/очередь: 914`)
+    }
+
+    if (text === '1-120-2023-02535US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02535US\nIsmi/Имя: JURAYEV NODIRBEK VAXOBOVICH\nmodel: DAMAS-2\nnavbat/очередь: 3392`)
+    }
+
+    if (text === '1-120-2023-02563US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02563US\nIsmi/Имя: KAHOROVA GULCHEXRA OBIDJON-QIZI\nmodel: DAMAS-2\nnavbat/очередь: 5483`)
+    }
+
+    if (text === '1-120-2023-02318US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02318US\nIsmi/Имя: XOLDOROV SHAVKAT G‘ANIJONOVICH\nmodel: COBALT\nnavbat/очередь: 2822`)
+    }
+    
+    if (text === '1-120-2023-02380US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02380US\nIsmi/Имя: MAMADJONOVA SOLIYAJON SHUKUROVNA\nmodel: COBALT\nnavbat/очередь: 1911`)
+    }
+
+    if (text === '1-120-2023-02402US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02402US\nIsmi/Имя: SHARAFUDDINOVA SEVARA IBRAGIMOVNA\nmodel: COBALT\nnavbat/очередь: 3288`)
+    }
+
+    if (text === '1-120-2023-02497US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02497US\nIsmi/Имя: Абдуллаев Абдулхай Исмоилович\nmodel: DAMAS-2\nnavbat/очередь: 1370`)
+    }
+
+    if (text === '1-120-2023-02320US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02320US\nIsmi/Имя: SOBIROV JO‘RABEK SAMIJON O‘G‘LI\nmodel: COBALT\nnavbat/очередь: 2852`)
+    }
+
+    if (text === '1-120-2023-02359US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02359US\nIsmi/Имя: SHAHZOD BOHODIROV BAHROMOVICH\nmodel: COBALT\nnavbat/очередь: 929`)
+    }
+
+    if (text === '1-120-2023-02366US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02366US\nIsmi/Имя: UMAROV ALISHER LATIPOVICH\nmodel: COBALT\nnavbat/очередь: 1094`)
+    }
+
+    if (text === '1-120-2023-02091US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02091US\nIsmi/Имя: XUSANBOYEV ASRORJON AKBARALI O‘G‘LI\nmodel: TRACKER-2\nnavbat/очередь: 703`)
+    }
+
+    if (text === '1-120-2023-02090US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02090US\nIsmi/Имя: ERGASHEV DONIYOR SOBIRJONOVICH\nmodel: TRACKER-2\nnavbat/очередь: 168`)
+    }
+
+    if (text === '1-120-2023-02088US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02088US\nIsmi/Имя: NURMATOVA GULASAL TURANBOYEVNA\nmodel: TRACKER-2\nnavbat/очередь: 719`)
+    }
+
+    if (text === '1-120-2023-02074US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02074US\nIsmi/Имя: SAMINOV UTKIRJON USMONJONOVICH\nmodel: TRACKER-2\nnavbat/очередь: 672`)
+    }
+
+    if (text === '1-120-2023-02071US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02071US\nIsmi/Имя: MIRZAYEV MIRZAMAXMUD MAXAMATSOLIYEVICH\nmodel: TRACKER-2\nnavbat/очередь: 700`)
+    }
+
+    if (text === '1-120-2023-02048US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02048US\nIsmi/Имя: ALMATOV DEHQONBOY SHAHOBIDDINOVICH\nmodel: TRACKER-2\nnavbat/очередь: 628`)
+    }
+
+    if (text === '1-120-2023-02049US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02049US\nIsmi/Имя: YaTT Xakimov Odiljon Gayratpulatovich\nmodel: TRACKER-2\nnavbat/очередь: 679`)
+    }
+
+    if (text === '1-120-2023-02035US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02035US\nIsmi/Имя: DULTABOYEV DILSHODBEK ALIJONOVICH\nmodel: TRACKER-2\nnavbat/очередь: 667`)
+    }
+
+    if (text === '1-120-2023-02005US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-02005US\nIsmi/Имя: PARPIYEV XURSHID ISAKJONOVICH\nmodel: TRACKER-2\nnavbat/очередь: 663`)
+    }
+
+    if (text === '1-120-2023-01987US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-01987US\nIsmi/Имя: TURSUNOV BAXTIYORJON MAMASODIKOVICH\nmodel: TRACKER-2\nnavbat/очередь: 591`)
+    }
+
+    if (text === '1-120-2023-01981US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-01981US\nIsmi/Имя: ERGASHEV NURULLO DAVLATALIYEVICH\nmodel: TRACKER-2\nnavbat/очередь: 108`)
+    }
+
+    if (text === '1-120-2023-01964US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-01964US\nIsmi/Имя: YULDASHEVA SHAXNOZA RAXMONALIYEVNA\nmodel: TRACKER-2\nnavbat/очередь: 108`)
+    }
+
+    if (text === '1-120-2023-01794US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-01794US\nIsmi/Имя: Каримов Саидисломбек Муйдин Угли\nmodel: COBALT\nnavbat/очередь: 26`)
+    }
+
+    if (text === '1-120-2023-01708US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-01708US\nIsmi/Имя: YULCHIBAYEV BOBIR TOXIROVICH\nmodel: TRACKER-2\nnavbat/очередь: 532`)
+    }
+
+    if (text === '1-120-2023-01699US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-01699US\nIsmi/Имя: Эрматова Дилфуза Мовжитовна\nmodel: TRACKER-2\nnavbat/очередь: 123`)
+    }
+
+    if (text === '1-120-2023-01661US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-01661US\nIsmi/Имя: MUROTALIYEV G‘OFARALI AKBAROVICH\nmodel: TRACKER-2\nnavbat/очередь: 601`)
+    }
+    
+    if (text === '1-120-2023-01665US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-01665US\nIsmi/Имя: ABDULLAYEVA KORIYAXON XXX\nmodel: TRACKER-2\nnavbat/очередь: 474`)
+    }
+
+    if (text === '1-120-2023-01642US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-01642US\nIsmi/Имя: OTABAYEV UMID UMATILLAYEVICH\nmodel: TRACKER-2\nnavbat/очередь: 591`)
+    }
+
+    if (text === '1-120-2023-01641US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-01641US\nIsmi/Имя: IZZATULLAYEV SHOKIRJON ERGASHBOYEVICH\nmodel: TRACKER-2\nnavbat/очередь: 99`)
+    }
+
+    if (text === '1-120-2023-01643US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-01643US\nIsmi/Имя: ORTIG‘BAYEV JAVOHIR SHAVKAT O‘G‘LI\nmodel: TRACKER-2\nnavbat/очередь: 440`)
+    }
+
+    if (text === '1-120-2023-01630US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-01630US\nIsmi/Имя: AZIZOVA MALIKA MIRZAAKRAMOVNA\nmodel: TRACKER-2\nnavbat/очередь: 98`)
+    }
+
+    if (text === '1-120-2023-01623US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-01623US\nIsmi/Имя: SHUXRATJONOV ARAPATALI SHUXRATJON O‘G‘LI\nmodel: TRACKER-2\nnavbat/очередь: 606`)
+    }
+
+    if (text === '1-120-2023-01611US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-01611US\nIsmi/Имя: Махсудов Хужахон Накибхонович\nmodel: TRACKER-2\nnavbat/очередь: 87`)
+    }
+
+    if (text === '1-120-2023-01600US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-01600US\nIsmi/Имя: MIRBABAYEV JASURBEK MAXAMADALI O‘G‘LI\nmodel: ONIX\nnavbat/очередь: 16`)
+    }
+
+    if (text === '1-120-2023-01584US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-01584US\nIsmi/Имя: TURG‘UNOV ABDURAYIMJON SULTONMURODOVICH\nmodel: TRACKER-2\nnavbat/очередь: 548`)
+    }
+
+    if (text === '1-120-2023-01552US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-01552US\nIsmi/Имя: NASRIDINOV SOBIT PATTAXANOVICH\nmodel: TRACKER-2\nnavbat/очередь: 17`)
+    }
+
+    if (text === '1-120-2023-01533US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-01533US\nIsmi/Имя: APPAKXUDJAYEV TOXIRXON ABDUKARIMOVICH\nmodel: TRACKER-2\nnavbat/очередь: 78`)
+    }
+
+    if (text === '1-120-2023-01522US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-01522US\nIsmi/Имя: ABDULLAYEVA ZIYODAXON TOXIRJANOVNA\nmodel: TRACKER-2\nnavbat/очередь: 54`)
+    }
+
+    if (text === '1-120-2023-01513US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-01513US\nIsmi/Имя: ABDIRAXIMOV ABDIMANON ABDISAMATOVICH\nmodel: TRACKER-2\nnavbat/очередь: 125`)
+    }
+
+    if (text === '1-120-2023-01491US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-01491US\nIsmi/Имя: NORMATOV XUSANBOY NABIJONOVICH\nmodel: TRACKER-2\nnavbat/очередь: 83`)
+    }
+
+    if (text === '1-120-2023-01500US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-01500US\nIsmi/Имя: TURDIYEV FARXOD XOSHIMOVICH\nmodel: TRACKER-2\nnavbat/очередь: 10`)
+    }
+
+    if (text === '1-120-2023-01505US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-01505US\nIsmi/Имя: Эрматова Саломат Рахмановна\nmodel: TRACKER-2\nnavbat/очередь: 84`)
+    }
+
+    if (text === '1-120-2023-01334US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-01334US\nIsmi/Имя: XUDOYBERDIYEV ULUGBEK MUHAMMADOLIMOVICH\nmodel: TRACKER-2\nnavbat/очередь: 270`)
+    }
+
+    if (text === '1-120-2023-00916US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-00916US\nIsmi/Имя: MAMADJANOV KOMILJON XXX\nmodel: TRACKER-2\nnavbat/очередь: 220`)
+    }
+
+    if (text === '1-120-2023-00903US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-00903US\nIsmi/Имя: YUSUPOV ERKINJON MAXANOVICH\nmodel: TRACKER-2\nnavbat/очередь: 197`)
+    }
+
+    if (text === '1-120-2023-00887US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-00887US\nIsmi/Имя: MIRZALIMOV ABDUMONOP ANXARBEKOVICH\nmodel: TRACKER-2\nnavbat/очередь: 156`)
+    }
+
+    if (text === '1-120-2023-00872US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-00872US\nIsmi/Имя: TOJIBOYEVA MUXOYYO MAMUTXON QIZI\nmodel: TRACKER-2\nnavbat/очередь: 457`)
+    }
+
+    if (text === '1-120-2023-00866US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-00866US\nIsmi/Имя: KAMOLOV SHOXZOD NABIJONOVICH\nmodel: TRACKER-2\nnavbat/очередь: 442`)
+    }
+    
+    if (text === '1-120-2023-00867US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-00867US\nIsmi/Имя: SUYUMOVA ZAMIRA SALIMOVNA018\nmodel: TRACKER-2\nnavbat/очередь: 66`)
+    }
+
+    if (text === '1-120-2023-00869US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-00869US\nIsmi/Имя: FAZLIDDINOV ZAYNABIDDIN SAYFIDDINOVICH\nmodel: TRACKER-2\nnavbat/очередь: 136`)
+    }
+
+    if (text === '1-120-2023-00868US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-00868US\nIsmi/Имя: RAXIMOV IQBOLJON ZIYOBIDDIN O‘G‘LI\nmodel: TRACKER-2\nnavbat/очередь: 449`)
+    }
+
+    if (text === '1-120-2023-00855US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-00855US\nIsmi/Имя: ZUXRIDINOV JAMSHID NABIJONOVICH\nmodel: TRACKER-2\nnavbat/очередь: 62`)
+    }
+
+    if (text === '1-120-2023-00845US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-00845US\nIsmi/Имя: MANSUROV ELDORBEK MARUFOVICH\nmodel: TRACKER-2\nnavbat/очередь: 416`)
+    }
+
+    if (text === '1-120-2023-00823US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-00823US\nIsmi/Имя: ISLAMOV ABDRAXMAN IBRAGIMOVICH\nmodel: TRACKER-2\nnavbat/очередь: 392`)
+    }
+
+    if (text === '1-120-2023-00814US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-00814US\nIsmi/Имя: TURGUNOV IBROXIM KAYUMOVICH\nmodel: TRACKER-2\nnavbat/очередь: 3`)
+    }
+
+    if (text === '1-120-2023-00818US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-00818US\nIsmi/Имя: XOJANAZAROVA ZARIFAXON BOXODIROVNA\nmodel: TRACKER-2\nnavbat/очередь: 386`)
+    }
+
+    if (text === '1-120-2023-00805US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-00805US\nIsmi/Имя: SHARIPOVA SAIDA SHERALIYEVNA\nmodel: TRACKER-2\nnavbat/очередь: 38`)
+    }
+
+    if (text === '1-120-2023-00778US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-00778US\nIsmi/Имя: ASHUROV BOBIR BOROTBAYEVICH\nmodel: TRACKER-2\nnavbat/очередь: 47`)
+    }
+
+    if (text === '1-120-2023-00766US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-00766US\nIsmi/Имя: USMANOV ABDULAZIZ KOSIMJONOVICH\nmodel: TRACKER-2\nnavbat/очередь: 342`)
+    }
+
+    if (text === '1-120-2023-00756US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-00756US\nIsmi/Имя: ALIMJANOV ABDURAXIM KARIMJONOVICH\nmodel: TRACKER-2\nnavbat/очередь: 1`)
+    }
+
+    if (text === '1-120-2023-00743US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-00743US\nIsmi/Имя: XOLBADJANOVA SAYOXAT ALIJONOVNA\nmodel: TRACKER-2\nnavbat/очередь: 301`)
+    }
+
+    if (text === '1-120-2023-00732US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-00732US\nIsmi/Имя: KARIMBERDIYEV NURIDDIN MAVLONBERDIYEVICH\nmodel: TRACKER-2\nnavbat/очередь: 277`)
+    }
+
+    if (text === '1-120-2023-00716US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-00716US\nIsmi/Имя: ZUXRIDINOV SANJAR NABIJON O‘G‘LI\nmodel: TRACKER-2\nnavbat/очередь: 218`)
+    }
+
+    if (text === '1-120-2023-00700US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-00700US\nIsmi/Имя: SHODIYEVA GULCHEXRA XUDOYNAZAROVNA\nmodel: TRACKER-2\nnavbat/очередь: 198`)
+    }
+
+    if (text === '1-120-2023-00693US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-00693US\nIsmi/Имя: ZUXRIDINOV SARVAR NABIJON O‘G‘LI\nmodel: TRACKER-2\nnavbat/очередь: 183`)
+    }
+
+    if (text === '1-120-2023-00682US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-00682US\nIsmi/Имя: XABIBXONOV SHERZOD NURIDINOVICH\nmodel: TRACKER-2\nnavbat/очередь: 153`)
+    }
+
+    if (text === '1-120-2023-00605US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-00605US\nIsmi/Имя: VOXIDOV XUSNIDDIN XAYDARJON-O‘G‘LI\nmodel: TRACKER-2\nnavbat/очередь: 71`)
+    }
+
+    if (text === '1-120-2023-00633US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-00633US\nIsmi/Имя: SAYIDOV SAYDILLA SOBIROVICH\nmodel: TRACKER-2\nnavbat/очередь: 87`)
+    }
+
+    if (text === '1-120-2023-00523US'){
+        return bot.sendMessage(chatId, `kod: 1-120-2023-00523US\nIsmi/Имя: YUSUFOV MUHAMMADBOBIR ADXAMJON O‘G‘LI\nmodel: TRACKER-2\nnavbat/очередь: 14`)
+    }    
 
 
 
